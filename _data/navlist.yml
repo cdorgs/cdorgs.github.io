@@ -1,0 +1,14 @@
+docs:
+
+- pagetitle: About
+  url: /
+  
+- pagetitle: Videos
+  url: /videos
+  
+- pagetitle: Images
+  url: /images
+  
+- pagetitle: Team
+  url: /team 
+  
