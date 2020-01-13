@@ -15,7 +15,7 @@ AI methods automatically design diverse candidate lifeforms in simulation (top r
 
 ## Technical paper
 Kriegman, S.\*, Blackiston, D.\*, Levin, M., Bongard, J. (2020) 
-“A scalable pipeline for designing reconfigurable organisms.” 
+"[A scalable pipeline for designing reconfigurable organisms](https://www.pnas.org/content/early/2020/01/07/1910837117)", 
 _Proceedings of the National Academy of Sciences (PNAS)_, vol. 117 no. 2, pp.?-?.  <br>
 \*Co-first authors.
 <br>
