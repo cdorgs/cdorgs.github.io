@@ -100,7 +100,7 @@ A microcautery device is utilized to define the rough shape of the transferred d
 <p>
 Microsurgery forceps are then used to sculpt the final features: 
 </p>
-<img width="50%" src="https://cdorgs.github.io/images/05_Vivo_Quadruped.jpg">
+<img width="50%" src="https://cdorgs.github.io/img/05_Vivo_Quadruped.jpg">
 <br>
 <br>
 
