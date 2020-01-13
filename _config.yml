@@ -1,1 +1,10 @@
 theme: jekyll-theme-cayman
+title: Computer-Designed Organisms
+description: A scalable pipeline for creating functional novel lifeforms.
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - index.md
