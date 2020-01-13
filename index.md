@@ -52,7 +52,7 @@ _Proceedings of the National Academy of Sciences (PNAS)_, vol. 117 no. 2, pp.?-?
 <br><br>
 
 **Q:** &nbsp;&nbsp; How do computers design organisms?<br>
-A:	Computers model the dynamics of the biological building blocks (skin and heart muscle) and use them like LEGO bricks to build different organism anatomies. The behavior of each designed anatomy is simulated in a physics-based virtual environment and assigned a performance score (e.g. distance traveled). An evolutionary algorithm starts with a population of randomly-assembled designs, then iteratively deletes the worst ones and replaces them by randomly-mutated copies of the better ones. It is the survival of the fittest, inside the computer. The fittest designs in virtual reality are then selected to be built out of real biological tissues.
+**A:** &nbsp;&nbsp; Computers model the dynamics of the biological building blocks (skin and heart muscle) and use them like LEGO bricks to build different organism anatomies. The behavior of each designed anatomy is simulated in a physics-based virtual environment and assigned a performance score (e.g. distance traveled). An evolutionary algorithm starts with a population of randomly-assembled designs, then iteratively deletes the worst ones and replaces them by randomly-mutated copies of the better ones. It is the survival of the fittest, inside the computer. The fittest designs in virtual reality are then selected to be built out of real biological tissues.
 <br><br>
 
 **Q:** &nbsp;&nbsp; How do you compare the similarity of the computer's design with the actual organism that is built?<br>
