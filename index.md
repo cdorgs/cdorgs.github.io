@@ -19,7 +19,8 @@ Kriegman, S.\*, Blackiston, D.\*, Levin, M., Bongard, J. (2020)
 _Proceedings of the National Academy of Sciences (PNAS)_, vol. 117 no. 2, pp.?-?.  <br>
 \*Co-first authors.
 <br>
-
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="73977811" />
+<br>
 
 ## FAQ
 
