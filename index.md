@@ -28,6 +28,15 @@ _Proceedings of the National Academy of Sciences (PNAS)_, DOI: 10.1073/pnas.1910
 [https://www.uvm.edu/uvmnews/news/team-builds-first-living-robots](https://www.uvm.edu/uvmnews/news/team-builds-first-living-robots)
 <br>
 
+## Brief summary
+<iframe
+  frameborder="0"
+  width="75%"
+  src="https://drive.google.com/file/d/18OEICC-Q2bMxA0Ou3irhJcwZDmIsPn5J/preview">
+</iframe>
+<br>
+
+
 ## FAQ
 
 **Q:** &nbsp;&nbsp; What is the big picture here --- is it just about robots made of frog cells?<br>
