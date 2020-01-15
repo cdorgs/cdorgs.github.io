@@ -32,7 +32,7 @@ _Proceedings of the National Academy of Sciences (PNAS)_, DOI: 10.1073/pnas.1910
 <iframe
   frameborder="0"
   width="100%"
-  hieght="50"
+  hieght="10"
   src="https://drive.google.com/file/d/18OEICC-Q2bMxA0Ou3irhJcwZDmIsPn5J/preview">
 </iframe>
 <br>
