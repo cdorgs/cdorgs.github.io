@@ -9,6 +9,9 @@ docs:
 - pagetitle: Images
   url: /images
   
+- pagetitle: Paper
+  url: /paper 
+  
 - pagetitle: Team
   url: /team 
   
