@@ -44,7 +44,7 @@ _Proceedings of the National Academy of Sciences (PNAS)_, DOI: 10.1073/pnas.1910
 <br><br>
 
 **Q:** &nbsp;&nbsp; How big/small are the organisms?<br>
-**A:** &nbsp;&nbsp; The red/green colored organism pictured above is about 0.7 millimeters.
+**A:** &nbsp;&nbsp; The red/green colored organism pictured above is about 0.7 millimeters. It was carved from a 10000 cell sphere, and its final geometry contains about 5000 cells. 
 <br><br>
 
 **Q:** &nbsp;&nbsp; What have they been used for?<br>
