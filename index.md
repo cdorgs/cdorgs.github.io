@@ -79,8 +79,12 @@ _Proceedings of the National Academy of Sciences (PNAS)_, DOI: 10.1073/pnas.1910
 **A:** &nbsp;&nbsp; This project seeks to determine the degree of emergent cooperation that cells can exhibit without genomic editing when liberated from the normal constraints of an embryo. In other words, what other functionalities exist in the physiological software encoded by a standard frog genome? Information about how cells make decisions during the process of assembling a new body sheds light on the origin of multicellularity, the computational capabilities of single cells, the exploitation of physical forces by evolution, the origin and specification of the default bodyplan normally built by embryonic cells, and the capacity for bioengineering new living machines with useful functions.
 <br><br>
 
-**Q:** &nbsp;&nbsp; Why are computer-designed organisms called “reconfigurable organisms” in the technical paper?<br>
+**Q:** &nbsp;&nbsp; Why are computer-designed organisms called "reconfigurable organisms" in the technical paper?<br>
 **A:** &nbsp;&nbsp; Frog cells were pieced together to form a new configuration, which is different from a frog. The cells which were configured by natural selection to become frogs were reconfigured by AI to create new forms and functions. The aggregated cells of the resulting organism can also be disassociated and reconfigured to form a new organism.
+<br><br>
+
+**Q:** &nbsp;&nbsp; Why are computer-designed organisms nicknamed "Xenobots"?<br>
+**A:** &nbsp;&nbsp; The cells used to build the first CDOs came from early embryos of the African clawed frog. The taxonomic name for this frog is _Xenopus laevis_. Xeno also means "other" or "strange" which highlights the fact that these cells do things different from their genomic default bodyplan.
 <br><br>
 
 **Q:** &nbsp;&nbsp; Couldn't these constructs start evolving beyond our control?<br>
