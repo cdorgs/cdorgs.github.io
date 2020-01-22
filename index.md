@@ -20,7 +20,7 @@ _Proceedings of the National Academy of Sciences (PNAS)_, DOI: 10.1073/pnas.1910
 <!---vol. 117 no. 2, pp.?-?.  <br> --->
 \*Co-first authors.
 <br>
-<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1073/pnas.1910837117"></div>
+<div data-badge-popover="right" class='altmetric-embed' data-badge-type='donut' data-doi="10.1073/pnas.1910837117"></div>
 
 ## Press release
 [https://www.uvm.edu/uvmnews/news/team-builds-first-living-robots](https://www.uvm.edu/uvmnews/news/team-builds-first-living-robots)
