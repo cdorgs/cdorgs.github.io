@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 title: Computer-Designed Organisms
-description: A scalable pipeline for creating functional novel lifeforms.
+description: A scalable pipeline for creating functional novel lifeforms (or, Xenobots).
 plugins:
   - jekyll-relative-links
 relative_links:
