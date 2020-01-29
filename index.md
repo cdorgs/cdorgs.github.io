@@ -12,15 +12,16 @@ A computer-designed organism (CDO), with the red/green colored design from the a
 AI methods automatically design diverse candidate lifeforms in simulation (top row) to perform some desired function, and transferable designs are then created using a cell-based construction toolkit to realize living systems (bottom row) with the predicted behaviors.
 <br>
 
+<!---
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 ## Technical paper
 Kriegman, S.\*, Blackiston, D.\*, Levin, M., Bongard, J. (2020) 
-"[A scalable pipeline for designing reconfigurable organisms](https://www.pnas.org/content/early/2020/01/07/1910837117)", 
-_Proceedings of the National Academy of Sciences (PNAS)_, DOI: 10.1073/pnas.1910837117 <br>
-<!---vol. 117 no. 2, pp.?-?.  <br> --->
+"[A scalable pipeline for designing reconfigurable organisms](https://www.pnas.org/content/117/4/1853)", 
+_Proceedings of the National Academy of Sciences (PNAS)_, vol. 117 no. 4, pp. 1853-1859.  <br>
 \*Co-first authors.
 <br>
 <div data-badge-popover="right" class='altmetric-embed' data-badge-type='donut' data-doi="10.1073/pnas.1910837117"></div>
+--->
 
 ## Press release
 [https://www.uvm.edu/uvmnews/news/team-builds-first-living-robots](https://www.uvm.edu/uvmnews/news/team-builds-first-living-robots)
