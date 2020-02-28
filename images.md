@@ -16,8 +16,17 @@ This image was selected by _Nature_ as [one of the best science photos](https://
 <img src="https://drive.google.com/uc?export=view&id=1dl_jmcuidJf_VghQIQd8QI0wiG8MXMJz" width="100%">
 <img src="https://drive.google.com/uc?export=view&id=1MB9jAT2gWTBl5DKNT9gzuAJBQkmIM1dk" width="100%">
 <img src="https://drive.google.com/uc?export=view&id=1-Tp2-cBEvPTGQKgLuur2Xm0BlMRBSWi8" width="100%">
+One hundred computer-designed blueprints for a walking organism composed of passive (cyan) and contractile voxels (red).
+<br>
+
 <img src="https://drive.google.com/uc?export=view&id=1X6Iohfr6MZO9ZD6Kvl6edzcMhelBtrAP" width="100%">
+Five of the above 100 blueprints were built using stem cells taken from early frog embroyos.
+<br>
+
 <img src="https://drive.google.com/uc?export=view&id=1Dmi5qSN6WI-cjnVwRBYFR7-OoT3-9nVv" width="100%">
+One of the over 100 computer-designed organisms. Left: the design discovered by the computational search method in simulation. Right: the deployed physical organism, built completely from biological tissue (frog skin (green) and heart muscle (red)).
+<br>
+
 <img src="https://drive.google.com/uc?export=view&id=1WBtpRpJ1rQpB14wKTuH2oiU0XzBu9o7b" width="100%">
 <img src="https://drive.google.com/uc?export=view&id=1yVCKHcaBRr7CqZKaqpNUmdFE_pMaTxjv" width="100%">
 <img src="https://drive.google.com/uc?export=view&id=1eSw9_k5ug1S41Uc-Hw7HmRlYLkQf5Qn8" width="100%">
