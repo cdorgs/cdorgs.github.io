@@ -1,11 +1,5 @@
 ## Images
 
-
-<img src="https://drive.google.com/uc?export=view&id=1Dmi5qSN6WI-cjnVwRBYFR7-OoT3-9nVv" width="100%">
-One of the over 100 computer-designed organisms. Left: the design discovered by the computational search method in simulation. Right: the deployed physical organism, built completely from biological tissue (frog skin (green) and heart muscle (red)).
-<img src="https://drive.google.com/uc?export=view&id=14CT6GPVVBxyrO4IAq4MXrya4M2Hle-zg" width="100%">
-One of the over 100 computer-designed organisms. Left: the design discovered by the computational search method in simulation. Right: the deployed physical organism, built completely from biological tissue  (frog skin (green) and heart muscle (red)). The background displays traces carved by a swarm of these organisms as they move through a field of particulate matter.
-<img src="https://drive.google.com/uc?export=view&id=1n3RPVJpm5VKGD_h362J5TC4hc9AFaWWp" width="100%">
 <img src="https://drive.google.com/uc?export=view&id=1D0mtddhmLyJCyS_IDFYqJ0oQM2Ze0s9w" width="100%">
 <img src="https://drive.google.com/uc?export=view&id=1X6Iohfr6MZO9ZD6Kvl6edzcMhelBtrAP" width="100%">
 <img src="https://drive.google.com/uc?export=view&id=1l0v9pn2Co2uCz4NvwOuS_XS5N12J_zPz" width="100%">
