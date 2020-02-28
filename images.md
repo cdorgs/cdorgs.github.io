@@ -2,6 +2,7 @@
 
 <img src="https://drive.google.com/uc?export=view&id=1tZiDs2qJ2i1r5NHaa-dPpcM63CiI9RrD" width="100%">
 The traces carved by a swarm of CDOs as they move through a field of particulate matter.
+This image was selected by _Nature_ as [one of the best science photos](https://www.nature.com/articles/d41586-020-00245-8) for January 2020.
 <br>
 
 <img src="https://drive.google.com/uc?export=view&id=13QRaw9kRDgEq65jDvXXuOYj-M9W1dYcm" width="100%">
