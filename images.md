@@ -1,8 +1,23 @@
 ## Images
 
 
-<iframe src="https://drive.google.com/file/d/1tZiDs2qJ2i1r5NHaa-dPpcM63CiI9RrD/preview" width="100%"></iframe>
+<iframe src="https://drive.google.com/file/d/1tZiDs2qJ2i1r5NHaa-dPpcM63CiI9RrD/preview"></iframe>
+<p>
+Traces carved by a swarm of computer-designed organisms as they move through a field of particulate matter.
+</p>
+<br><br>
 
+<iframe src="https://drive.google.com/file/d/1W4szOElxljnKHTTiUH8NIMZitLnK_Wcg/preview"></iframe>
+<p>
+x
+</p>
+<br><br>
+
+<iframe src="https://drive.google.com/file/d/1Vm745l8dPmJKddkGM8RmVzrPX8DDeKw7/preview"></iframe>
+<p>
+x
+</p>
+<br><br>
 
 <!-- <img src="https://drive.google.com/uc?export=view&id=1Dmi5qSN6WI-cjnVwRBYFR7-OoT3-9nVv" width="100%">
 One of the over 100 computer-designed organisms. Left: the design discovered by the computational search method in simulation. Right: the deployed physical organism, built completely from biological tissue (frog skin (green) and heart muscle (red)).
