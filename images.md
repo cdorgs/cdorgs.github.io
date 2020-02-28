@@ -22,7 +22,8 @@
 <img src="https://drive.google.com/uc?export=view&id=1OaPPy5f6zRaeVHhRuUi_6gwCf0EoMRqe" width="100%">
 <img src="https://drive.google.com/uc?export=view&id=1MGZEem_UAjZ_ST-sh6Z20qPx9LYQUELy" width="100%">
 <img src="https://drive.google.com/uc?export=view&id=1daz4yUWZASj5kgnVLjmTuLrzFah126vv" width="100%">
+<img src="https://drive.google.com/uc?export=view&id=1D0mtddhmLyJCyS_IDFYqJ0oQM2Ze0s9w" width="100%">
 
-
+These images (plus a few more) can be downloaded from here:
 <iframe src="https://drive.google.com/embeddedfolderview?id=1m2ZnuFK0BUGeozVG5K4NKPVOKoDVSmAy#grid" width="100%" height="500" frameborder="0"></iframe>
 
