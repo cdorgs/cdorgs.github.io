@@ -1,6 +1,9 @@
 ## Images
 
 <img src="https://drive.google.com/uc?export=view&id=1tZiDs2qJ2i1r5NHaa-dPpcM63CiI9RrD" width="100%">
+The traces carved by a swarm of CDOs as they move through a field of particulate matter.
+<br>
+
 <img src="https://drive.google.com/uc?export=view&id=13QRaw9kRDgEq65jDvXXuOYj-M9W1dYcm" width="100%">
 <img src="https://drive.google.com/uc?export=view&id=1W4szOElxljnKHTTiUH8NIMZitLnK_Wcg" width="100%">
 <img src="https://drive.google.com/uc?export=view&id=1Vm745l8dPmJKddkGM8RmVzrPX8DDeKw7" width="100%">
