@@ -1,8 +1,11 @@
 ## Images
 
+The following images (plus a few more) can be download [here](https://drive.google.com/drive/folders/1m2ZnuFK0BUGeozVG5K4NKPVOKoDVSmAy).
+<br><br>
+
 <img src="https://drive.google.com/uc?export=view&id=1tZiDs2qJ2i1r5NHaa-dPpcM63CiI9RrD" width="100%">
 The traces carved by a swarm of CDOs as they move through a field of particulate matter.
-This image was selected by _Nature_ as [one of the best science photos](https://www.nature.com/articles/d41586-020-00245-8) for January 2020.
+This image was selected by _Nature_ as [one of the best science photos](https://www.nature.com/articles/d41586-020-00245-8) of January 2020.
 <br>
 
 <img src="https://drive.google.com/uc?export=view&id=13QRaw9kRDgEq65jDvXXuOYj-M9W1dYcm" width="100%">
@@ -27,7 +30,4 @@ This image was selected by _Nature_ as [one of the best science photos](https://
 <img src="https://drive.google.com/uc?export=view&id=1MGZEem_UAjZ_ST-sh6Z20qPx9LYQUELy" width="100%">
 <img src="https://drive.google.com/uc?export=view&id=1daz4yUWZASj5kgnVLjmTuLrzFah126vv" width="100%">
 <img src="https://drive.google.com/uc?export=view&id=1D0mtddhmLyJCyS_IDFYqJ0oQM2Ze0s9w" width="100%">
-
-## These images (plus a few more) can be downloaded from here:
-<iframe src="https://drive.google.com/embeddedfolderview?id=1m2ZnuFK0BUGeozVG5K4NKPVOKoDVSmAy#grid" width="100%" height="500" frameborder="0"></iframe>
 
