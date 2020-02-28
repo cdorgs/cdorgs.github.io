@@ -1,25 +1,7 @@
 ## Images
 
 
-<iframe src="https://drive.google.com/file/d/1tZiDs2qJ2i1r5NHaa-dPpcM63CiI9RrD/preview"></iframe>
-<p>
-Traces carved by a swarm of computer-designed organisms as they move through a field of particulate matter.
-</p>
-<br><br>
-
-<iframe src="https://drive.google.com/file/d/1W4szOElxljnKHTTiUH8NIMZitLnK_Wcg/preview"></iframe>
-<p>
-x
-</p>
-<br><br>
-
-<iframe src="https://drive.google.com/file/d/1Vm745l8dPmJKddkGM8RmVzrPX8DDeKw7/preview"></iframe>
-<p>
-x
-</p>
-<br><br>
-
-<!-- <img src="https://drive.google.com/uc?export=view&id=1Dmi5qSN6WI-cjnVwRBYFR7-OoT3-9nVv" width="100%">
+<img src="https://drive.google.com/uc?export=view&id=1Dmi5qSN6WI-cjnVwRBYFR7-OoT3-9nVv" width="100%">
 One of the over 100 computer-designed organisms. Left: the design discovered by the computational search method in simulation. Right: the deployed physical organism, built completely from biological tissue (frog skin (green) and heart muscle (red)).
 <img src="https://drive.google.com/uc?export=view&id=14CT6GPVVBxyrO4IAq4MXrya4M2Hle-zg" width="100%">
 One of the over 100 computer-designed organisms. Left: the design discovered by the computational search method in simulation. Right: the deployed physical organism, built completely from biological tissue  (frog skin (green) and heart muscle (red)). The background displays traces carved by a swarm of these organisms as they move through a field of particulate matter.
@@ -52,7 +34,7 @@ One of the over 100 computer-designed organisms. Left: the design discovered by 
 <img src="https://drive.google.com/uc?export=view&id=1dAoii88cEaFIcSjZZvLP-IXbFb5vfhoy" width="100%">
 <img src="https://drive.google.com/uc?export=view&id=1OaPPy5f6zRaeVHhRuUi_6gwCf0EoMRqe" width="100%">
 <img src="https://drive.google.com/uc?export=view&id=1MGZEem_UAjZ_ST-sh6Z20qPx9LYQUELy" width="100%">
-<img src="https://drive.google.com/uc?export=view&id=1daz4yUWZASj5kgnVLjmTuLrzFah126vv" width="100%"> -->
+<img src="https://drive.google.com/uc?export=view&id=1daz4yUWZASj5kgnVLjmTuLrzFah126vv" width="100%">
 
 
 <iframe src="https://drive.google.com/embeddedfolderview?id=1m2ZnuFK0BUGeozVG5K4NKPVOKoDVSmAy#grid" width="100%" height="500" frameborder="0"></iframe>
