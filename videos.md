@@ -1,7 +1,7 @@
 ## Videos
 
 The following videos (plus a few more) can be download [here](https://drive.google.com/drive/folders/1ITDLz6zi01xtukrRKRIKdb59yA-LmAlm).
-<br><br>
+<br>
 
 ### Designing CDOs. 
 
