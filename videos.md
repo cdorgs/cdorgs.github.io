@@ -1,5 +1,7 @@
 ## Videos
 
+The following videos (plus a few more) can be download [here](https://drive.google.com/drive/folders/1ITDLz6zi01xtukrRKRIKdb59yA-LmAlm).
+<br><br>
 
 ### Designing CDOs. 
 
@@ -104,5 +106,3 @@ Microsurgery forceps are then used to sculpt the final features:
 <br>
 <br>
 
-### These videos (and a few more) can be downloaded from here:
-<iframe src="https://drive.google.com/embeddedfolderview?id=1ITDLz6zi01xtukrRKRIKdb59yA-LmAlm#grid" width="100%" height="500" frameborder="0"></iframe>
