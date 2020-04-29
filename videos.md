@@ -1,6 +1,6 @@
 ## Videos
 
-The following videos (plus a few more) can be [downloaded here](https://drive.google.com/drive/folders/1ITDLz6zi01xtukrRKRIKdb59yA-LmAlm).
+The following videos (plus a few more) are all released under a [Creative Commons license](http://creativecommons.org/licenses/by/4.0/) and can be [downloaded here](https://drive.google.com/drive/folders/1ITDLz6zi01xtukrRKRIKdb59yA-LmAlm).
 <br>
 
 ### Designing CDOs. 
