@@ -23,10 +23,6 @@ _Proceedings of the National Academy of Sciences (PNAS)_, vol. 117 no. 4, pp. 18
 <div data-badge-popover="right" class='altmetric-embed' data-badge-type='donut' data-doi="10.1073/pnas.1910837117"></div>
 --->
 
-## Press release
-[https://www.uvm.edu/uvmnews/news/team-builds-first-living-robots](https://www.uvm.edu/uvmnews/news/team-builds-first-living-robots)
-<br>
-
 
 ## Brief summary
 
@@ -37,6 +33,16 @@ _Proceedings of the National Academy of Sciences (PNAS)_, vol. 117 no. 4, pp. 18
 <br> -->
 
 <!-- <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/749996632&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe> -->
+
+
+## CDOs in action
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/R8mkupUoPgQ" frameborder="0" allowfullscreen></iframe>
+<br>
+
+
+## Press release
+[https://www.uvm.edu/uvmnews/news/team-builds-first-living-robots](https://www.uvm.edu/uvmnews/news/team-builds-first-living-robots)
+<br>
 
 
 ## FAQ
