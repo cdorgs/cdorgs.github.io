@@ -119,7 +119,7 @@ _Proceedings of the National Academy of Sciences (PNAS)_, vol. 117 no. 4, pp. 18
 **A:** &nbsp;&nbsp; [github.com/skriegman/reconfigurable_organisms](https://github.com/skriegman/reconfigurable_organisms)
 <br><br>
 
-**Q:** &nbsp;&nbsp; Can I use your videos and images? <br>
-**A:** &nbsp;&nbsp; Yes, all of our images and videos are released under a [Creative Commons license](http://creativecommons.org/licenses/by/4.0/).
+**Q:** &nbsp;&nbsp; Can I repost your videos and images? <br>
+**A:** &nbsp;&nbsp; Yes, all of our images and videos are released under a [Creative Commons license](https://creativecommons.org/licenses/by-nc/4.0/).
 <br><br>
 
