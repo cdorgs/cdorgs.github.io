@@ -98,7 +98,7 @@ Microrobots are made from metal, ceramics and plastics, so they are stronger and
 An AI intent on causing harm seems unlikely, but designing organisms with unintentional side effects is a possible outcome for this technology. We thus believe that all computer-designed technologies --- including organisms --- require human verification before being created physically, let alone deployed to perform (hopefully) useful work. Further, regulation of such technology is an important next step in the policy space. Regardless, the potential of harm in these kinds of creations is infinitely smaller than current efforts in the virology, bacteriology, and genome editing spaces.
 <br>
 
-## Couldn't someone program the AI to design weaponized CDOs?
+### Couldn't someone program the AI to design weaponized CDOs?
 In theory, yes. At the moment though it is difficult to see how an AI could create harmful organisms any easier than a talented biologist with bad intentions could. Despite this, we believe that, as this technology matures, regulation of its use and misuse should be a high priority. Again though, the possibility of misuse is much, much smaller than what is being done with self-reproducing agents like bacteria, viruses, and gene drives.
 <br>
 
