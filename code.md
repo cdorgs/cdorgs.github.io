@@ -7,3 +7,5 @@ The instructions for actually building an organism from a CDO blueprint are also
 
 The source code and build instructions are distributed under an **Attribution-NonCommercial** [Creative Commons license](https://creativecommons.org/licenses/by-nc/4.0/).
 
+**NOTE:** We recently developed a [new simulator](https://voxcraft.github.io/design) that is much faster than the one we used in our PNAS paper. 
+_All current CDO research in review / in preparation uses the new simulator._
