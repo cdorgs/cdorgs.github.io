@@ -3,12 +3,14 @@
 
 <img src="https://cdorgs.github.io/img/sam.jpg" width="25%">
 
-**Sam Kriegman** is a PhD student at the University of Vermont. 
-His research focuses on the auto design of systems that are difficult to design by hand:
-[soft robots](https://voxcraft.github.io/),
+**Sam Kriegman** is a Postdoctoral Associate at the University of Vermont. 
+His research focuses on the auto-design of systems that are difficult to design by hand:
+shapeshifting robots,
 robot swarms,
-and novel organisms.
-He runs the [Virtual Creatures Competition](https://virtualcreatures.github.io/), has authored 15 peer-reviewed publications, and is scheduled to defend his dissertation in early September.
+and reconfigurable organisms.
+He runs the [Virtual Creatures Competition](https://virtualcreatures.github.io/), 
+has authored 17 peer-reviewed [publications](https://scholar.google.com/citations?user=DCIwaLwAAAAJ), 
+and manages the open source soft robot design and construction kit [voxcraft](https://voxcraft.github.io/).
 <br><br><br>
 
 
