@@ -10,7 +10,7 @@ robot swarms,
 and reconfigurable organisms.
 He runs the [Virtual Creatures Competition](https://virtualcreatures.github.io/), 
 has authored 17 peer-reviewed [publications](https://scholar.google.com/citations?user=DCIwaLwAAAAJ), 
-and manages the open source soft robot design and construction kit [voxcraft](https://voxcraft.github.io/).
+and manages the open-source soft robot kit [voxcraft](https://voxcraft.github.io/).
 <br><br><br>
 
 
