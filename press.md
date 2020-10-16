@@ -54,6 +54,9 @@
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/749996632&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/skriegman" title="Computer-designed organisms" target="_blank" style="color: #cccccc; text-decoration: none;">Computer-designed organisms</a> · <a href="https://soundcloud.com/skriegman/cbc-quirks-quarks-scientists-create-a-robot-made-entirely-of-living-cells" title="CBC Quirks &amp; Quarks: Scientists Create A Robot Made Entirely Of Living Cells" target="_blank" style="color: #cccccc; text-decoration: none;">CBC Quirks &amp; Quarks: Scientists Create A Robot Made Entirely Of Living Cells</a></div>
 
 
+## Wikipedia 
+[Xenobot](https://en.wikipedia.org/wiki/Xenobot)
+
 ## Boston Globe
 [Scientists at UVM, Tufts create "living robots"](https://www.bostonglobe.com/2020/01/13/metro/scientists-uvm-tufts-create-living-robots/)
 <br>
@@ -91,9 +94,6 @@
 
 ## Fox News
 [Tiny "xenobots" made from cells could heal our bodies and clean the environment](https://www.foxnews.com/science/tiny-xenobots-cells-heal-bodies-clean-environment)
-
-## Daily Mail
-[The first LIVING robots](https://www.dailymail.co.uk/sciencetech/article-7882293/Tiny-living-robots-FROG-embryos-used-destroy-cancer-cells.html)
 
 ## New York Post
 [World's first "living robots" are made from the stem cells of frogs](https://nypost.com/video/worlds-first-living-robots-are-made-from-the-stem-cells-of-frogs/)
@@ -134,11 +134,20 @@
 <br>
 [[PDF](https://drive.google.com/file/d/1VEo3ySD2gjs7gnT3hiDGI_9pQ71fWQcU/view)]
 
+## Inverse
+[Scientist Develop "Walking Caviar" to Make the First-Ever Living Machine](https://www.inverse.com/article/62220-scientists-create-living-machine)
+
 ## Gizmodo
 [Made Entirely From Cells, These Adorable 'Xenobots' Are Practically Alive](https://gizmodo.com/made-entirely-from-cells-these-adorable-xenobots-are-1840996434)
 
-## Wikipedia 
-[Xenobot](https://en.wikipedia.org/wiki/Xenobot)
+## Mashable
+[In true Frankenstein fashion, researchers create living machines from frog embryos](https://mashable.com/video/xenobots-living-robots-frog-embryo/)
+
+## Daily Mail
+[The first LIVING robots](https://www.dailymail.co.uk/sciencetech/article-7882293/Tiny-living-robots-FROG-embryos-used-destroy-cancer-cells.html)
+
+## Evening Standard
+[Scientists create world's first 'living robots' using frog embryos](https://www.standard.co.uk/news/world/scientists-create-worlds-first-living-robots-using-frog-embryos-a4333476.html)
 
 ## The Times
 [How tiny 'biobots' could enter bodies to clean arteries and administer drugs](https://www.thetimes.co.uk/article/how-tiny-biobots-could-enter-bodies-to-clean-arteries-and-administer-drugs-wrs2l7v3l)
@@ -191,6 +200,8 @@ https://www.elmundo.es/ciencia-y-salud/ciencia/2020/01/13/5e1ca7a5fc6c8394698b45
 ## El Heraldo de México
 [Biobots, la nueva revolución](https://heraldodemexico.com.mx/mundo/2020/1/17/biobots-la-nueva-revolucion-146006.html)
 
+## El Comercio (Peru)
+[Biotecnología: usan células de rana para diseñar microrrobots]()
 
 ## RMC Découverte (France)
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/--Ber4QezXc" frameborder="0" allowfullscreen></iframe>
@@ -210,7 +221,8 @@ https://www.elmundo.es/ciencia-y-salud/ciencia/2020/01/13/5e1ca7a5fc6c8394698b45
 [Soluista tehty minirobotti on kuin uusi elämänmuoto](https://www.hs.fi/tiede/art-2000006511730.html)
 
 
-
+## Le Scienze (Italy)
+[Ecco gli xenobot, i primi robot fatti di cellule viventi](https://www.lescienze.it/news/2020/01/15/news/robot_viventi-4659662/)
 		  
 
 
