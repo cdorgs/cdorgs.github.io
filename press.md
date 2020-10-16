@@ -47,12 +47,7 @@ A research team builds robots from living cells
 https://www.economist.com/science-and-technology/2020/01/16/a-research-team-builds-robots-from-living-cells
 
 
-The Intelligence (Economist podcast)
-Tiny machines made from the stem cells of frogs
-https://soundcloud.com/skriegman/economist-radio-tiny-machines-made-from-the-stem-cells-of-frogs
-
-
-
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/755242759&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/skriegman" title="Computer-designed organisms" target="_blank" style="color: #cccccc; text-decoration: none;">Computer-designed organisms</a> · <a href="https://soundcloud.com/skriegman/economist-radio-tiny-machines-made-from-the-stem-cells-of-frogs" title="Economist Radio: Tiny machines made from the stem cells of frogs" target="_blank" style="color: #cccccc; text-decoration: none;">Economist Radio: Tiny machines made from the stem cells of frogs</a></div>
 
 
 
