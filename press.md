@@ -91,7 +91,7 @@
 [The "xenobot" is the world's newest robot -- and it's made from living animal cells](https://www.ctvnews.ca/sci-tech/the-xenobot-is-the-world-s-newest-robot-and-it-s-made-from-living-animal-cells-1.4765793)
 
 ## Independent
-[https://www.independent.co.uk/life-style/gadgets-and-tech/news/living-robots-xenobots-living-cells-frog-embryos-a9282251.html](Scientists Create First "Living Robots" in Major Breakthrough)
+[Scientists Create First "Living Robots" in Major Breakthrough](https://www.independent.co.uk/life-style/gadgets-and-tech/news/living-robots-xenobots-living-cells-frog-embryos-a9282251.html)
 
 ## Popular Science
 [These tiny living robots could help science eavesdrop on cellular gossip](https://www.popsci.com/story/science/frog-cell-living-robot/)
@@ -105,6 +105,13 @@
 ## The Biologist
 [The first organism whose evolutionary history was in a computer (with Michael Levin)](https://thebiologist.rsb.org.uk/biologist/158-biologist/features/2296-professor-michael-levin-interview)
 
+## Engadget
+[Scientists created living robots out of stem cells](https://www.engadget.com/2020-01-15-uvm-tufts-living-robots-xenobots.html)
+
+## Wikipedia 
+[Xenobot](https://en.wikipedia.org/wiki/Xenobot)
+
+
 ## ESPN
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/AT9Yq-19inA" frameborder="0" allowfullscreen></iframe>
 <br>
@@ -112,14 +119,12 @@
 ## AsapSCIENCE
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/js6uTRT8KO4" frameborder="0" allowfullscreen></iframe>
 
-## Wikipedia 
-[Xenobot](https://en.wikipedia.org/wiki/Xenobot)
-
 ## Seeker
-<iframe width="100%" height="400" src="//content.jwplatform.com/players/K8hCxF4y-ZkHdQ9Si.html" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/wL64jqYn4CE" frameborder="0" allowfullscreen></iframe>
 
-## Engadget
-[Scientists created living robots out of stem cells](https://www.engadget.com/2020-01-15-uvm-tufts-living-robots-xenobots.html)
+
+## Noticieros Televisa (Mexico)
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/ajzSBHDaGUQ" frameborder="0" allowfullscreen></iframe>
 
 ## RMC Découverte (France)
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/--Ber4QezXc" frameborder="0" allowfullscreen></iframe>
@@ -132,8 +137,6 @@
 <br>
 [PDF](https://drive.google.com/drive/folders/13zySeEl_1lRTPAy-Ws0th-NT7qI-csd1)
 
-## Noticieros Televisa (Mexico)
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/ajzSBHDaGUQ" frameborder="0" allowfullscreen></iframe>
 		  
 
 
