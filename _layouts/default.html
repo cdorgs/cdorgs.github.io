@@ -17,37 +17,75 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    
+    <link href="https://use.fontawesome.com/releases/v5.12.0/css/all.css" rel="stylesheet">
+    <link rel="icon" href="img/v-icon.png" type="image/x-icon">
+    
+    <script async defer src="https://buttons.github.io/buttons.js"></script>
+
+    <link rel="stylesheet" href="{{ '/assets/plugins/simple-nav/css/nav.css?v=' | append: site.github.build_revision | relative_url }}">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    
   </head>
   <body>
-    <header class="page-header" role="banner">
-      <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
-      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-      {% if site.github.is_project_page %}
-        <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
-      {% endif %}
-      {% if site.show_downloads %}
-        <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
-        <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
-      {% endif %}
-	{% for item in site.data.navlist.docs %}
-	<a href="{{ item.url }}" class="btn">{{ item.pagetitle }}</a>
-	{% endfor %}
+      
+    <!-- Navigation / nav-wrapper component -->
+    <header class="nav-wrapper">
+      <nav class="nav">
+        <button class="toggle-nav" type="button">
+          <div class="burger -squeeze -offset" type="button">
+            <span class="burger-lines"></span>
+          </div>
+        </button>
+        <a class="logo-link" href="/">
+          {{ site.title | default: site.github.repository_name }}
+        </a>
+        <ul class="nav-list" role="navigation">
+          <div class="list -left">
 
+            {% for item in site.data.navlist.docs %}
+            <li class="item">
+              <a class="link" href="{{ item.url }}">{{ item.pagetitle }}</a>
+            </li>
+            {% endfor %}
+
+<!--             <li class="item">
+              <a class="link" href="{{ site.github.repository_url }}" target="_blank">View on GitHub</a>
+            </li> -->
+
+          </div>
+          <div class="list -right">
+            <div class="overlay"></div>
+          </div>
+        </ul>
+      </nav>
     </header>
 
+    <div class="page-header" role="banner">
+      <div class="content">
+        <h1 class="project-name">Computer-designed organisms</h1>
+        <h2 class="project-tagline">&nbsp; A scalable pipeline for creating novel organisms such as xenobots</h2>
+<!--         <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2> -->
+      </div>
+    </div>
+
     <main id="content" class="main-content" role="main">
+
       {{ content }}
 
-      <footer class="site-footer">
-        {% if site.github.is_project_page %}
-          <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
-        {% endif %}
-        <span class="site-footer-credits">Images and videos are released under a 
-		<a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons license</a>.
-	      Still have questions? <a href='mailto:sam.kriegman@uvm.edu?&cc=Douglas.Blackiston@tufts.edu'>Email us!</a>
-	      </span>
-      </footer>
     </main>
+
+    <footer class="site-footer">
+      <div class="content">
+        <span>Images and videos are released under a 
+		<a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons license</a>. 
+		Still have questions? <a href='mailto:sam.kriegman@uvm.edu?&cc=Douglas.Blackiston@tufts.edu'>Email us!</a>.
+        </span>
+      </div>
+    </footer>  
+
   </body>
+
+
+  <script src="{{ '/assets/plugins/simple-nav/js/simply-nav.js?v=' | append: site.github.build_revision | relative_url }}"></script>
 </html>
