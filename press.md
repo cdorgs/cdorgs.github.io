@@ -75,6 +75,7 @@
 
 ## Nature Materials
 [Living Robots](https://www.nature.com/articles/s41563-020-0627-6)
+[[PDF](https://drive.google.com/file/d/18W-v_7uI2U8P-yv_QpoO6ShJUiO2juyU/view)]
 
 ## Wired
 [Meet Xenobot, an Eerie New Kind of Programmable Organism](https://www.wired.com/story/xenobot/)
@@ -157,6 +158,9 @@
 
 ## Evening Standard
 [Scientists create world's first 'living robots' using frog embryos](https://www.standard.co.uk/news/world/scientists-create-worlds-first-living-robots-using-frog-embryos-a4333476.html)
+
+## The Irish Sun
+[SCIENTISTS are claiming to have made the first "living robots"](https://www.thesun.ie/tech/4987407/scientists-create-first-living-robots-made-from-cells-that-can-be-programmed-like-computers/)
 
 ## The Times
 [How tiny 'biobots' could enter bodies to clean arteries and administer drugs](https://www.thetimes.co.uk/article/how-tiny-biobots-could-enter-bodies-to-clean-arteries-and-administer-drugs-wrs2l7v3l)
@@ -241,4 +245,8 @@
 		  
 ## Skai (Greece)
 [Δημιουργήθηκαν τα πρώτα ζωντανά ρομπότ](https://www.skai.gr/news/technology/dimiourgithikan-ta-prota-zontana-rompot)
+
+## Trouw (Netherlands)
+[Wetenschappers creëren een nieuwe vorm van leven](https://www.trouw.nl/nieuws/wetenschappers-creeren-een-nieuwe-vorm-van-leven~b651a782/)
+
 
