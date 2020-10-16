@@ -4,17 +4,18 @@
 ## New York Times
 [Meet the Xenobots, Virtual Creatures Brought to Life](https://www.nytimes.com/2020/04/03/science/xenobots-robots-frogs-xenopus.html)
 <br>
-[PDF](https://drive.google.com/file/d/1Zx0kNpsev8LwmAZdAWM7R6WTpei5GPP-/view)
+[[PDF](https://drive.google.com/file/d/1Zx0kNpsev8LwmAZdAWM7R6WTpei5GPP-/view)]
 
 
 ## The Guardian
 [Scientists use stem cells from frogs to build first living robots](https://www.theguardian.com/science/2020/jan/13/scientists-use-stem-cells-from-frogs-to-build-first-living-robots)
 <br>
-[PDF](https://drive.google.com/file/d/1_sFuOfZW1EQ00QtXwgKA7-esRgn4SRIT/view)
+[[PDF](https://drive.google.com/file/d/1_sFuOfZW1EQ00QtXwgKA7-esRgn4SRIT/view)]
 
 
 ## CNN
 [Meet the xenobot: world's first living, self-healing robots created from frog stem cells](https://www.cnn.com/2020/01/13/us/living-robot-stem-cells-intl-hnk-scli-scn/index.html)
+[[PDF]()]
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/Q_pFkP1PL8w" frameborder="0" allowfullscreen></iframe>
 
@@ -28,7 +29,7 @@
 
 [A research team builds robots from living cells](https://www.economist.com/science-and-technology/2020/01/16/a-research-team-builds-robots-from-living-cells)
 <br>
-[PDF](https://drive.google.com/file/d/1i59ac5ppF9JRnPhEYPvrVKBT5tUwK-hD/view)
+[[PDF](https://drive.google.com/file/d/1i59ac5ppF9JRnPhEYPvrVKBT5tUwK-hD/view)]
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/755242759&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/skriegman" title="Computer-designed organisms" target="_blank" style="color: #cccccc; text-decoration: none;">Computer-designed organisms</a> · <a href="https://soundcloud.com/skriegman/economist-radio-tiny-machines-made-from-the-stem-cells-of-frogs" title="Economist Radio: Tiny machines made from the stem cells of frogs" target="_blank" style="color: #cccccc; text-decoration: none;">Economist Radio: Tiny machines made from the stem cells of frogs</a></div>
 
@@ -52,21 +53,22 @@
 
 ## Boston Globe
 [Scientists at UVM, Tufts create "living robots"](https://www.bostonglobe.com/2020/01/13/metro/scientists-uvm-tufts-create-living-robots/)
- 
+<br>
+[[PDF]()]
  
 ## Nature
-<img src="https://drive.google.com/uc?export=view&id=1tZiDs2qJ2i1r5NHaa-dPpcM63CiI9RrD" width="50%">
 [Giant Moon rocket, living robots and quantum computer -- January’s best science images](https://www.nature.com/articles/d41586-020-00245-8)
 <br>
-[PDF](https://drive.google.com/file/d/1VJ5knhDYVvxHSk4oEFEiyaWtsombwvWc/view)
+[[PDF](https://drive.google.com/file/d/1VJ5knhDYVvxHSk4oEFEiyaWtsombwvWc/view)]
 
 ## Wired
 [Meet Xenobot, an Eerie New Kind of Programmable Organism](https://www.wired.com/story/xenobot/)
 <br>
-[PDF]()
+[[PDF](https://drive.google.com/file/d/1e6DAbOFmftYhztqH_utz0Tc_E9XfcvRY/view)]
 
 ## MIT Technology Review
 [These "xenobots" are living machines designed by an evolutionary algorithm](https://www.technologyreview.com/2020/01/14/238128/these-xenobots-are-living-machines-designed-by-an-evolutionary-algorithm/)
+[[PDF](https://drive.google.com/file/d/1mmT5UFc0bDbgxJ3EY5aI7sgN5NMZEvJc/view?usp=sharing)]
 
 ## Scientific American
 [World's First "Living Machine" Created Using Frog Cells and Artificial Intelligence](https://www.scientificamerican.com/article/worlds-first-living-machine-created-using-frog-cells-and-artificial-intelligence/)
@@ -85,14 +87,6 @@
 
 ## New York Post
 [World's first "living robots" are made from the stem cells of frogs](https://nypost.com/video/worlds-first-living-robots-are-made-from-the-stem-cells-of-frogs/)
-
-## The Times
-[How tiny 'biobots' could enter bodies to clean arteries and administer drugs](https://www.thetimes.co.uk/article/how-tiny-biobots-could-enter-bodies-to-clean-arteries-and-administer-drugs-wrs2l7v3l)
-
-## The Telegraph
-[Living robots created as scientists turn frog cells into 'entirely new life-forms'](https://www.telegraph.co.uk/science/2020/01/13/living-robots-created-scientists-turn-frog-cells-entirely-new/)
-<br>
-[video](https://youtu.be/q_Vg7-23PAQ)
 
 ## CTV News
 [The "xenobot" is the world's newest robot -- and it's made from living animal cells](https://www.ctvnews.ca/sci-tech/the-xenobot-is-the-world-s-newest-robot-and-it-s-made-from-living-animal-cells-1.4765793)
@@ -114,6 +108,14 @@
 
 ## Wikipedia 
 [Xenobot](https://en.wikipedia.org/wiki/Xenobot)
+
+## The Times
+[How tiny 'biobots' could enter bodies to clean arteries and administer drugs](https://www.thetimes.co.uk/article/how-tiny-biobots-could-enter-bodies-to-clean-arteries-and-administer-drugs-wrs2l7v3l)
+
+## The Telegraph
+[Living robots created as scientists turn frog cells into 'entirely new life-forms'](https://www.telegraph.co.uk/science/2020/01/13/living-robots-created-scientists-turn-frog-cells-entirely-new/)
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/q_Vg7-23PAQ" frameborder="0" allowfullscreen></iframe>
 
 
 ## ESPN
@@ -139,12 +141,12 @@
 
 [Creadas por primera vez “máquinas vivientes” con células animales](https://elpais.com/elpais/2020/01/13/ciencia/1578934364_490067.html)
 <br>
-[PDF](https://drive.google.com/file/d/1FJPJ8MXFZSjboO8r-H3QQ9LTVBh0SaKe/view)
+[[PDF](https://drive.google.com/file/d/1FJPJ8MXFZSjboO8r-H3QQ9LTVBh0SaKe/view)]
 <br>
 
 [Cómo se hace un biobot](https://elpais.com/elpais/2020/01/13/ciencia/1578929630_839281.html)
 <br>
-[PDF](https://drive.google.com/file/d/1sdwvjagOaFi8qzO-omk8_9M6Jts8_K4m/view)
+[[PDF](https://drive.google.com/file/d/1sdwvjagOaFi8qzO-omk8_9M6Jts8_K4m/view)]
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/_nAR7PqfXBw" frameborder="0" allowfullscreen></iframe>
 
@@ -158,7 +160,7 @@
 ## Tanes-Anzeiger (Switzerland)
 [Hier kommt Xenobot, derlebende Roboter](https://www.tagesanzeiger.ch/wissen/die-lebenden-roboter-kommen/story/10547425)
 <br>
-[PDF](https://drive.google.com/drive/folders/13zySeEl_1lRTPAy-Ws0th-NT7qI-csd1)
+[[PDF](https://drive.google.com/drive/folders/13zySeEl_1lRTPAy-Ws0th-NT7qI-csd1)]
 
 
 
