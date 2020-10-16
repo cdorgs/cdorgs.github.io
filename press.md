@@ -1,6 +1,11 @@
 ## Press
 
 
+## New York Times
+
+https://www.nytimes.com/2020/04/03/science/xenobots-robots-frogs-xenopus.html
+ 
+
 ## CNN
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/Q_pFkP1PL8w" frameborder="0" allowfullscreen></iframe>
@@ -11,16 +16,19 @@ Meet the xenobot: world's first living, self-healing robots created from frog st
 https://www.cnn.com/2020/01/13/us/living-robot-stem-cells-intl-hnk-scli-scn/index.html
 
 
+## BBC Radio 4 Sunday
+The religious, moral, and ethical implications of Xenobots
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/746139253&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/skriegman" title="Computer-designed organisms" target="_blank" style="color: #cccccc; text-decoration: none;">Computer-designed organisms</a> · <a href="https://soundcloud.com/skriegman/bbc-radio-4-the-religious-moral-and-ethical-implications-of-xenobots" title="BBC Radio 4 Sunday: The religious, moral, and ethical implications of Xenobots." target="_blank" style="color: #cccccc; text-decoration: none;">BBC Radio 4 Sunday: The religious, moral, and ethical implications of Xenobots.</a></div>
+
+https://soundcloud.com/skriegman/bbc-radio-4-the-religious-moral-and-ethical-implications-of-xenobots
+
+
 ## Science Friday
 Living Robots, Designed By Computer
 https://www.sciencefriday.com/segments/livingrobots/
 
 
-## New York Times
 
-https://www.nytimes.com/2020/04/03/science/xenobots-robots-frogs-xenopus.html
- 
- 
 ## Boston Globe
 
 Scientists at UVM, Tufts create "living robots"
@@ -45,9 +53,7 @@ https://soundcloud.com/skriegman/economist-radio-tiny-machines-made-from-the-ste
 
 
 
-### BBC Radio 4 Sunday
-The religious, moral, and ethical implications of Xenobots
-https://soundcloud.com/skriegman/bbc-radio-4-the-religious-moral-and-ethical-implications-of-xenobots
+
 
 
 ### ESPN
