@@ -75,6 +75,9 @@
 <br>
 [[PDF](https://drive.google.com/file/d/1e6DAbOFmftYhztqH_utz0Tc_E9XfcvRY/view)]
 
+## Science Illustrated
+[Scientists build machines based on living cells (PDF)](https://drive.google.com/file/d/1y7U89WWThWrLpSDYT9QJlD9FKAvVs0vF/view)
+
 ## BBC Science Focus
 [Living Robots Built From Stem Cells (PDF)](https://drive.google.com/file/d/1yYJSfGS_FkXxTzAAp5N1ismo3WioCohM/view?usp=sharing)
 
@@ -202,6 +205,7 @@
 
 ## El Comercio (Peru)
 [Biotecnología: usan células de rana para diseñar microrrobots](https://elcomercio.pe/tecnologia/ciencias/maquinas-vivas-novedosas-cientificos-crean-los-primeros-robots-vivientes-noticia/)
+
 
 ## Science & Vie (France)
 [Voici le Xénobot, premier robot biologique](https://www.science-et-vie.com/technos-et-futur/voici-le-xenobot-premier-robot-biologique-54741)
