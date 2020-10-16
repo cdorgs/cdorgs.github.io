@@ -59,10 +59,13 @@
 <br>
 [[PDF](https://drive.google.com/file/d/17t_jtAkOPxczeI0dBEv2Ned6-fJrVJt7/view)]
  
-## Nature
+## Nature News & Comment
 [Giant Moon rocket, living robots and quantum computer -- January’s best science images](https://www.nature.com/articles/d41586-020-00245-8)
 <br>
 [[PDF](https://drive.google.com/file/d/1VJ5knhDYVvxHSk4oEFEiyaWtsombwvWc/view)]
+
+## Nature Materials
+[Living Robots](https://www.nature.com/articles/s41563-020-0627-6)
 
 ## Wired
 [Meet Xenobot, an Eerie New Kind of Programmable Organism](https://www.wired.com/story/xenobot/)
@@ -86,14 +89,17 @@
 ## Christian Science Monitor
 [Behold the xenobots -- part frog, part robot. But are they alive?](https://www.csmonitor.com/Science/2020/0131/Behold-the-xenobots-part-frog-part-robot.-But-are-they-alive)
 
-## Forbes
-[World’s First "Living Robot" Invites New Opportunities And Risks](https://www.forbes.com/sites/simonchandler/2020/01/14/worlds-first-living-robot-invites-new-opportunities-and-risks)
-
 ## Fox News
 [Tiny "xenobots" made from cells could heal our bodies and clean the environment](https://www.foxnews.com/science/tiny-xenobots-cells-heal-bodies-clean-environment)
 
 ## New York Post
 [World's first "living robots" are made from the stem cells of frogs](https://nypost.com/video/worlds-first-living-robots-are-made-from-the-stem-cells-of-frogs/)
+
+## Forbes
+[World’s First "Living Robot" Invites New Opportunities And Risks](https://www.forbes.com/sites/simonchandler/2020/01/14/worlds-first-living-robot-invites-new-opportunities-and-risks)
+
+## CNET
+[Tiny living robots made from frog cells could soon swim inside your body](https://www.cnet.com/news/tiny-living-robots-made-from-frog-cells-could-soon-swim-inside-your-body/)
 
 ## CTV News
 [The "xenobot" is the world's newest robot -- and it's made from living animal cells](https://www.ctvnews.ca/sci-tech/the-xenobot-is-the-world-s-newest-robot-and-it-s-made-from-living-animal-cells-1.4765793)
@@ -112,6 +118,8 @@
 
 ## The Biologist
 [The first organism whose evolutionary history was in a computer (with Michael Levin)](https://thebiologist.rsb.org.uk/biologist/158-biologist/features/2296-professor-michael-levin-interview)
+<br>
+[[PDF of cover](https://drive.google.com/file/d/1-EH31Iyozuus3yExgcYuUDWwhqLlLjTt/view?usp=sharing)]
 
 ## The Hill
 [World's first living robots created using frog stem cells](https://thehill.com/changing-america/well-being/medical-advances/478406-worlds-first-living-robots-created-using-frog)
