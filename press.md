@@ -1,7 +1,7 @@
 ## Press
 
 
-# **English**
+# **English Coverage:**
 
 
 ## New York Times
@@ -75,6 +75,7 @@
 
 ## Nature Materials
 [Living Robots](https://www.nature.com/articles/s41563-020-0627-6)
+<br>
 [[PDF](https://drive.google.com/file/d/18W-v_7uI2U8P-yv_QpoO6ShJUiO2juyU/view)]
 
 ## Wired
@@ -171,6 +172,9 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/q_Vg7-23PAQ" frameborder="0" allowfullscreen></iframe>
 
 
+## The Bugle
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/749561029&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/skriegman" title="Computer-designed organisms" target="_blank" style="color: #cccccc; text-decoration: none;">Computer-designed organisms</a> · <a href="https://soundcloud.com/skriegman/the-bugle-ep-4137-xenobots" title="The Bugle Ep. 4137: Xenobots" target="_blank" style="color: #cccccc; text-decoration: none;">The Bugle Ep. 4137: Xenobots</a></div>
+
 ## ESPN
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/AT9Yq-19inA" frameborder="0" allowfullscreen></iframe>
 
@@ -187,34 +191,12 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/MJ8NorRU_6c" frameborder="0" allowfullscreen></iframe>
 
 
+<br><br>
 
-# **International Coverage**
+# **International Coverage:**
 
-
-## El Mundo (Spain)
-[Construyen a partir de células de rana los primeros robots vivos](https://www.elmundo.es/ciencia-y-salud/ciencia/2020/01/13/5e1ca7a5fc6c8394698b4591.html)
-
-## El País (Spain)
-
-[Creadas por primera vez “máquinas vivientes” con células animales](https://elpais.com/elpais/2020/01/13/ciencia/1578934364_490067.html)
-<br>
-[[PDF](https://drive.google.com/file/d/1FJPJ8MXFZSjboO8r-H3QQ9LTVBh0SaKe/view)]
-<br>
-
-[Cómo se hace un biobot](https://elpais.com/elpais/2020/01/13/ciencia/1578929630_839281.html)
-<br>
-[[PDF](https://drive.google.com/file/d/1sdwvjagOaFi8qzO-omk8_9M6Jts8_K4m/view)]
-
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/_nAR7PqfXBw" frameborder="0" allowfullscreen></iframe>
-
-## Noticieros Televisa (Mexico)
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/ajzSBHDaGUQ" frameborder="0" allowfullscreen></iframe>
-
-## El Heraldo de México
-[Biobots, la nueva revolución](https://heraldodemexico.com.mx/mundo/2020/1/17/biobots-la-nueva-revolucion-146006.html)
-
-## El Comercio (Peru)
-[Biotecnología: usan células de rana para diseñar microrrobots](https://elcomercio.pe/tecnologia/ciencias/maquinas-vivas-novedosas-cientificos-crean-los-primeros-robots-vivientes-noticia/)
+## Helsingin Sanomat (Finland)
+[Soluista tehty minirobotti on kuin uusi elämänmuoto](https://www.hs.fi/tiede/art-2000006511730.html)
 
 ## Science & Vie (France)
 [Voici le Xénobot, premier robot biologique](https://www.science-et-vie.com/technos-et-futur/voici-le-xenobot-premier-robot-biologique-54741)
@@ -232,21 +214,48 @@
 ## Bild der Wissenschaft (Germany)
 [Lebende Roboter entwickelt](https://www.wissenschaft.de/technik-digitales/lebende-roboter-entwickelt/)
 
-## Tanes-Anzeiger (Switzerland)
-[Hier kommt Xenobot, derlebende Roboter](https://www.tagesanzeiger.ch/wissen/die-lebenden-roboter-kommen/story/10547425)
-<br>
-[[PDF](https://drive.google.com/drive/folders/13zySeEl_1lRTPAy-Ws0th-NT7qI-csd1)]
-
-## Helsingin Sanomat (Finland)
-[Soluista tehty minirobotti on kuin uusi elämänmuoto](https://www.hs.fi/tiede/art-2000006511730.html)
-
-## Le Scienze (Italy)
-[Ecco gli xenobot, i primi robot fatti di cellule viventi](https://www.lescienze.it/news/2020/01/15/news/robot_viventi-4659662/)
+## Der Tagesspiegel (Germany)
+[Forscher bauen erstmals lebende Roboter](https://www.tagesspiegel.de/wissen/programmierbare-organismen-forscher-bauen-erstmals-lebende-roboter/25427952.html)
 		  
 ## Skai (Greece)
 [Δημιουργήθηκαν τα πρώτα ζωντανά ρομπότ](https://www.skai.gr/news/technology/dimiourgithikan-ta-prota-zontana-rompot)
 
+## Le Scienze (Italy)
+[Ecco gli xenobot, i primi robot fatti di cellule viventi](https://www.lescienze.it/news/2020/01/15/news/robot_viventi-4659662/)
+
+## Noticieros Televisa (Mexico)
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/ajzSBHDaGUQ" frameborder="0" allowfullscreen></iframe>
+
+## El Heraldo de México
+[Biobots, la nueva revolución](https://heraldodemexico.com.mx/mundo/2020/1/17/biobots-la-nueva-revolucion-146006.html)
+
+## de Volkskrant (Netherlands)
+[Wetenschappers bouwen ‘levende robot’ van kikkercellen](https://www.volkskrant.nl/wetenschap/wetenschappers-bouwen-levende-robot-van-kikkercellen~bf04cb86/)
+
 ## Trouw (Netherlands)
 [Wetenschappers creëren een nieuwe vorm van leven](https://www.trouw.nl/nieuws/wetenschappers-creeren-een-nieuwe-vorm-van-leven~b651a782/)
 
+## El Comercio (Peru)
+[Biotecnología: usan células de rana para diseñar microrrobots](https://elcomercio.pe/tecnologia/ciencias/maquinas-vivas-novedosas-cientificos-crean-los-primeros-robots-vivientes-noticia/)
+
+## El Mundo (Spain)
+[Construyen a partir de células de rana los primeros robots vivos](https://www.elmundo.es/ciencia-y-salud/ciencia/2020/01/13/5e1ca7a5fc6c8394698b4591.html)
+
+## El País (Spain)
+
+[Creadas por primera vez “máquinas vivientes” con células animales](https://elpais.com/elpais/2020/01/13/ciencia/1578934364_490067.html)
+<br>
+[[PDF](https://drive.google.com/file/d/1FJPJ8MXFZSjboO8r-H3QQ9LTVBh0SaKe/view)]
+<br>
+
+[Cómo se hace un biobot](https://elpais.com/elpais/2020/01/13/ciencia/1578929630_839281.html)
+<br>
+[[PDF](https://drive.google.com/file/d/1sdwvjagOaFi8qzO-omk8_9M6Jts8_K4m/view)]
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/_nAR7PqfXBw" frameborder="0" allowfullscreen></iframe>
+
+## Tanes-Anzeiger (Switzerland)
+[Hier kommt Xenobot, derlebende Roboter](https://www.tagesanzeiger.ch/wissen/die-lebenden-roboter-kommen/story/10547425)
+<br>
+[[PDF](https://drive.google.com/drive/folders/13zySeEl_1lRTPAy-Ws0th-NT7qI-csd1)]
 
