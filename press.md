@@ -176,7 +176,7 @@
 
 
 ## El Mundo (Spain)
-https://www.elmundo.es/ciencia-y-salud/ciencia/2020/01/13/5e1ca7a5fc6c8394698b4591.html
+[Construyen a partir de células de rana los primeros robots vivos](https://www.elmundo.es/ciencia-y-salud/ciencia/2020/01/13/5e1ca7a5fc6c8394698b4591.html)
 
 
 ## El País (Spain)
@@ -201,7 +201,14 @@ https://www.elmundo.es/ciencia-y-salud/ciencia/2020/01/13/5e1ca7a5fc6c8394698b45
 [Biobots, la nueva revolución](https://heraldodemexico.com.mx/mundo/2020/1/17/biobots-la-nueva-revolucion-146006.html)
 
 ## El Comercio (Peru)
-[Biotecnología: usan células de rana para diseñar microrrobots]()
+[Biotecnología: usan células de rana para diseñar microrrobots](https://elcomercio.pe/tecnologia/ciencias/maquinas-vivas-novedosas-cientificos-crean-los-primeros-robots-vivientes-noticia/)
+
+## Science & Vie (France)
+[Voici le Xénobot, premier robot biologique](https://www.science-et-vie.com/technos-et-futur/voici-le-xenobot-premier-robot-biologique-54741)
+[[Magazine PDF](https://drive.google.com/file/d/17hEdtIP3pvIA7IKjB7ZPtRgoNDb26osV/view)]
+
+## L'Express (France)
+[Grenouilles conçues par ordinateur : des scientifiques créent les premiers robots vivants](https://www.lexpress.fr/actualite/sciences/grenouilles-androides-des-scientifiques-creent-les-premiers-robots-vivants_2114063.html)
 
 ## RMC Découverte (France)
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/--Ber4QezXc" frameborder="0" allowfullscreen></iframe>
@@ -219,7 +226,6 @@ https://www.elmundo.es/ciencia-y-salud/ciencia/2020/01/13/5e1ca7a5fc6c8394698b45
 
 ## Helsingin Sanomat (Finland)
 [Soluista tehty minirobotti on kuin uusi elämänmuoto](https://www.hs.fi/tiede/art-2000006511730.html)
-
 
 ## Le Scienze (Italy)
 [Ecco gli xenobot, i primi robot fatti di cellule viventi](https://www.lescienze.it/news/2020/01/15/news/robot_viventi-4659662/)
