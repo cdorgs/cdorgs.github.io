@@ -16,11 +16,6 @@ AI methods automatically design diverse candidate lifeforms in simulation (top r
 The beating heart muscle of a CDO turned on its side.
 <br>
 
-## Brief summary
-
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/Q_pFkP1PL8w" frameborder="0" allowfullscreen></iframe>
-<br>
-
 
 ## How they're made
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/R8mkupUoPgQ" frameborder="0" allowfullscreen></iframe>
