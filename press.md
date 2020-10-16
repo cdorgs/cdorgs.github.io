@@ -16,12 +16,15 @@
 ## CNN
 [Meet the xenobot: world's first living, self-healing robots created from frog stem cells](https://www.cnn.com/2020/01/13/us/living-robot-stem-cells-intl-hnk-scli-scn/index.html)
 <br>
-[[PDF]()]
+[[PDF](https://drive.google.com/file/d/1SrSKoglIZWihrQEb5Feny059aBvztT9l/view)]
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/Q_pFkP1PL8w" frameborder="0" allowfullscreen></iframe>
 
 
 ## Sky News
+[The world's first 'living robots' unveiled - and they can self-heal](https://news.sky.com/story/the-worlds-first-living-robots-unveiled-and-they-can-self-heal-11908217)
+[[PDF](https://drive.google.com/file/d/1gktTrRMPVZLoDagZuai87b47pcIvhfyl/view)]
+
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/FDtKmavEQsc" frameborder="0" allowfullscreen></iframe>
 
 
@@ -177,10 +180,10 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/MJ8NorRU_6c" frameborder="0" allowfullscreen></iframe>
 
 
+# International
 
 ## El Mundo (Spain)
 [Construyen a partir de células de rana los primeros robots vivos](https://www.elmundo.es/ciencia-y-salud/ciencia/2020/01/13/5e1ca7a5fc6c8394698b4591.html)
-
 
 ## El País (Spain)
 
@@ -195,17 +198,14 @@
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/_nAR7PqfXBw" frameborder="0" allowfullscreen></iframe>
 
-
 ## Noticieros Televisa (Mexico)
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/ajzSBHDaGUQ" frameborder="0" allowfullscreen></iframe>
-
 
 ## El Heraldo de México
 [Biobots, la nueva revolución](https://heraldodemexico.com.mx/mundo/2020/1/17/biobots-la-nueva-revolucion-146006.html)
 
 ## El Comercio (Peru)
 [Biotecnología: usan células de rana para diseñar microrrobots](https://elcomercio.pe/tecnologia/ciencias/maquinas-vivas-novedosas-cientificos-crean-los-primeros-robots-vivientes-noticia/)
-
 
 ## Science & Vie (France)
 [Voici le Xénobot, premier robot biologique](https://www.science-et-vie.com/technos-et-futur/voici-le-xenobot-premier-robot-biologique-54741)
@@ -234,5 +234,6 @@
 ## Le Scienze (Italy)
 [Ecco gli xenobot, i primi robot fatti di cellule viventi](https://www.lescienze.it/news/2020/01/15/news/robot_viventi-4659662/)
 		  
-
+## Skai (Greece)
+[Δημιουργήθηκαν τα πρώτα ζωντανά ρομπότ](https://www.skai.gr/news/technology/dimiourgithikan-ta-prota-zontana-rompot)
 
