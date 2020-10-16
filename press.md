@@ -92,6 +92,9 @@
 ## Fox News
 [Tiny "xenobots" made from cells could heal our bodies and clean the environment](https://www.foxnews.com/science/tiny-xenobots-cells-heal-bodies-clean-environment)
 
+## Daily Mail
+[The first LIVING robots](https://www.dailymail.co.uk/sciencetech/article-7882293/Tiny-living-robots-FROG-embryos-used-destroy-cancer-cells.html)
+
 ## New York Post
 [World's first "living robots" are made from the stem cells of frogs](https://nypost.com/video/worlds-first-living-robots-are-made-from-the-stem-cells-of-frogs/)
 
@@ -131,6 +134,9 @@
 <br>
 [[PDF](https://drive.google.com/file/d/1VEo3ySD2gjs7gnT3hiDGI_9pQ71fWQcU/view)]
 
+## Gizmodo
+[Made Entirely From Cells, These Adorable 'Xenobots' Are Practically Alive](https://gizmodo.com/made-entirely-from-cells-these-adorable-xenobots-are-1840996434)
+
 ## Wikipedia 
 [Xenobot](https://en.wikipedia.org/wiki/Xenobot)
 
@@ -160,8 +166,9 @@
 
 
 
-## Noticieros Televisa (Mexico)
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/ajzSBHDaGUQ" frameborder="0" allowfullscreen></iframe>
+## El Mundo (Spain)
+https://www.elmundo.es/ciencia-y-salud/ciencia/2020/01/13/5e1ca7a5fc6c8394698b4591.html
+
 
 ## El País (Spain)
 
@@ -177,18 +184,30 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/_nAR7PqfXBw" frameborder="0" allowfullscreen></iframe>
 
 
+## Noticieros Televisa (Mexico)
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/ajzSBHDaGUQ" frameborder="0" allowfullscreen></iframe>
+
+
+## El Heraldo de México
+[Biobots, la nueva revolución](https://heraldodemexico.com.mx/mundo/2020/1/17/biobots-la-nueva-revolucion-146006.html)
+
+
 ## RMC Découverte (France)
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/--Ber4QezXc" frameborder="0" allowfullscreen></iframe>
 
 ## Die Welt (Germany)
 [Forscher haben erstmals 'lebende' Mini-Roboter erschaffen](https://www.welt.de/kmpkt/article205068398/Aus-Froschstammzellen-Forscher-haben-erstmals-lebende-Mini-Roboter-erschaffen.html)
 
+## Bild der Wissenschaft (Germany)
+[Lebende Roboter entwickelt](https://www.wissenschaft.de/technik-digitales/lebende-roboter-entwickelt/)
+
 ## Tanes-Anzeiger (Switzerland)
 [Hier kommt Xenobot, derlebende Roboter](https://www.tagesanzeiger.ch/wissen/die-lebenden-roboter-kommen/story/10547425)
 <br>
 [[PDF](https://drive.google.com/drive/folders/13zySeEl_1lRTPAy-Ws0th-NT7qI-csd1)]
 
-
+## Helsingin Sanomat (Finland)
+[Soluista tehty minirobotti on kuin uusi elämänmuoto](https://www.hs.fi/tiede/art-2000006511730.html)
 
 
 
