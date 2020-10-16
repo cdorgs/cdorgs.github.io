@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 title: Computer-designed organisms
-description: A scalable pipeline for creating novel organisms such as xenobots.
+description: A scalable pipeline for creating novel organisms, such as xenobots.
 plugins:
   - jekyll-relative-links
 relative_links:
