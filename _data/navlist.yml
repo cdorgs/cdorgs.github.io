@@ -3,6 +3,9 @@ docs:
 - pagetitle: About
   url: /
   
+- pagetitle: Press
+  url: /press
+  
 - pagetitle: Videos
   url: /videos
   
