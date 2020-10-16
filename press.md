@@ -86,6 +86,8 @@
 
 ## The Telegraph
 [Living robots created as scientists turn frog cells into 'entirely new life-forms'](https://www.telegraph.co.uk/science/2020/01/13/living-robots-created-scientists-turn-frog-cells-entirely-new/)
+<br>
+[video](https://youtu.be/q_Vg7-23PAQ)
 
 ## CTV News
 [The "xenobot" is the world's newest robot -- and it's made from living animal cells](https://www.ctvnews.ca/sci-tech/the-xenobot-is-the-world-s-newest-robot-and-it-s-made-from-living-animal-cells-1.4765793)
@@ -105,22 +107,25 @@
 ## The Biologist
 [The first organism whose evolutionary history was in a computer (with Michael Levin)](https://thebiologist.rsb.org.uk/biologist/158-biologist/features/2296-professor-michael-levin-interview)
 
-## Engadget
-[Scientists created living robots out of stem cells](https://www.engadget.com/2020-01-15-uvm-tufts-living-robots-xenobots.html)
-
 ## Wikipedia 
 [Xenobot](https://en.wikipedia.org/wiki/Xenobot)
 
 
 ## ESPN
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/AT9Yq-19inA" frameborder="0" allowfullscreen></iframe>
-<br>
+
+## Engadget
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/DUeQZt1XZUw" frameborder="0" allowfullscreen></iframe>
 
 ## AsapSCIENCE
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/js6uTRT8KO4" frameborder="0" allowfullscreen></iframe>
 
 ## Seeker
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/wL64jqYn4CE" frameborder="0" allowfullscreen></iframe>
+
+## Cold Fusion
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/MJ8NorRU_6c" frameborder="0" allowfullscreen></iframe>
+
 
 
 ## Noticieros Televisa (Mexico)
