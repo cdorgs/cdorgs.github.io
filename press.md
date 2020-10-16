@@ -126,6 +126,11 @@
 <br>
 [[PDF](https://drive.google.com/file/d/1xcLYI6tYEZpgXjGmL0pxFkRS4WkgeKxV/view)]
 
+## Cosmos
+[Robots made of living animal cells](https://cosmosmagazine.com/technology/researchers-create-robots-made-of-living-animal-cells/)
+<br>
+[[PDF](https://drive.google.com/file/d/1VEo3ySD2gjs7gnT3hiDGI_9pQ71fWQcU/view)]
+
 ## Wikipedia 
 [Xenobot](https://en.wikipedia.org/wiki/Xenobot)
 
