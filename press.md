@@ -20,12 +20,9 @@ https://www.cnn.com/2020/01/13/us/living-robot-stem-cells-intl-hnk-scli-scn/inde
 The religious, moral, and ethical implications of Xenobots
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/746139253&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/skriegman" title="Computer-designed organisms" target="_blank" style="color: #cccccc; text-decoration: none;">Computer-designed organisms</a> · <a href="https://soundcloud.com/skriegman/bbc-radio-4-the-religious-moral-and-ethical-implications-of-xenobots" title="BBC Radio 4 Sunday: The religious, moral, and ethical implications of Xenobots." target="_blank" style="color: #cccccc; text-decoration: none;">BBC Radio 4 Sunday: The religious, moral, and ethical implications of Xenobots.</a></div>
 
-https://soundcloud.com/skriegman/bbc-radio-4-the-religious-moral-and-ethical-implications-of-xenobots
-
 
 ## Science Friday
-Living Robots, Designed By Computer
-https://www.sciencefriday.com/segments/livingrobots/
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/749995210&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/skriegman" title="Computer-designed organisms" target="_blank" style="color: #cccccc; text-decoration: none;">Computer-designed organisms</a> · <a href="https://soundcloud.com/skriegman/scifri-living-robots-designed-by-computer" title="SciFri: Living Robots, Designed By Computer" target="_blank" style="color: #cccccc; text-decoration: none;">SciFri: Living Robots, Designed By Computer</a></div>
 
 
 
@@ -50,10 +47,14 @@ https://www.economist.com/science-and-technology/2020/01/16/a-research-team-buil
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/755242759&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/skriegman" title="Computer-designed organisms" target="_blank" style="color: #cccccc; text-decoration: none;">Computer-designed organisms</a> · <a href="https://soundcloud.com/skriegman/economist-radio-tiny-machines-made-from-the-stem-cells-of-frogs" title="Economist Radio: Tiny machines made from the stem cells of frogs" target="_blank" style="color: #cccccc; text-decoration: none;">Economist Radio: Tiny machines made from the stem cells of frogs</a></div>
 
 
+## CBC Quirks & Quarks
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/749996632&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/skriegman" title="Computer-designed organisms" target="_blank" style="color: #cccccc; text-decoration: none;">Computer-designed organisms</a> · <a href="https://soundcloud.com/skriegman/cbc-quirks-quarks-scientists-create-a-robot-made-entirely-of-living-cells" title="CBC Quirks &amp; Quarks: Scientists Create A Robot Made Entirely Of Living Cells" target="_blank" style="color: #cccccc; text-decoration: none;">CBC Quirks &amp; Quarks: Scientists Create A Robot Made Entirely Of Living Cells</a></div>
 
-### ESPN
-Xenobots: 1st living robots made from stem cells
-https://youtu.be/AT9Yq-19inA
+
+
+## ESPN
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/AT9Yq-19inA" frameborder="0" allowfullscreen></iframe>
+<br>
 
 
 ## Wired
