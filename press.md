@@ -1,6 +1,9 @@
 ## Press
 
 
+# **English**
+
+
 ## New York Times
 [Meet the Xenobots, Virtual Creatures Brought to Life](https://www.nytimes.com/2020/04/03/science/xenobots-robots-frogs-xenopus.html)
 <br>
@@ -180,7 +183,9 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/MJ8NorRU_6c" frameborder="0" allowfullscreen></iframe>
 
 
-# International
+
+# **International Coverage**
+
 
 ## El Mundo (Spain)
 [Construyen a partir de células de rana los primeros robots vivos](https://www.elmundo.es/ciencia-y-salud/ciencia/2020/01/13/5e1ca7a5fc6c8394698b4591.html)
