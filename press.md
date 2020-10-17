@@ -126,9 +126,13 @@
 
 ## Forbes
 [World’s First "Living Robot" Invites New Opportunities And Risks](https://www.forbes.com/sites/simonchandler/2020/01/14/worlds-first-living-robot-invites-new-opportunities-and-risks)
+<br>
+[[PDF](https://drive.google.com/file/d/16m1BcBgH4pOLz3ihOd00OZFEqWz1ywIp/view)]
 
 ## CNET
 [Tiny living robots made from frog cells could soon swim inside your body](https://www.cnet.com/news/tiny-living-robots-made-from-frog-cells-could-soon-swim-inside-your-body/)
+<br>
+[[PDF](https://drive.google.com/file/d/156LpJhsQT6vT0c7Xr2s36vNQv_ZGiptR/view)]
 
 ## CTV News
 [The "xenobot" is the world's newest robot -- and it's made from living animal cells](https://www.ctvnews.ca/sci-tech/the-xenobot-is-the-world-s-newest-robot-and-it-s-made-from-living-animal-cells-1.4765793)
@@ -231,7 +235,8 @@
 # **International Coverage:**
 
 ## MIT Technology Review China
-[全球首个用青蛙细胞制造“活体机器人”诞生，遭破坏时可自愈！药物递送领域大有可为｜独家专访](http://www.mittrchina.com/news/4660)
+[全球首个用青蛙细胞制造“活体机器人”诞生，遭破坏时可自愈！药物递送领域大有可为](http://www.mittrchina.com/news/4660)
+<br>
 [[PDF](https://drive.google.com/file/d/11SnlF7qnnUPn073R5x-y96gXYjMR4Hh-/view)]
 
 ## Diario El Universo (Ecuador)
@@ -248,7 +253,7 @@
 ## L'Express (France)
 [Grenouilles conçues par ordinateur : des scientifiques créent les premiers robots vivants](https://www.lexpress.fr/actualite/sciences/grenouilles-androides-des-scientifiques-creent-les-premiers-robots-vivants_2114063.html)
 <br>
-[[PDF](https://drive.google.com/file/d/1cnuR9omz8DGk6ji1vLw3NgXBtpDh-2hk/view)
+[[PDF](https://drive.google.com/file/d/1cnuR9omz8DGk6ji1vLw3NgXBtpDh-2hk/view)]
 
 ## RMC Découverte (France)
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/--Ber4QezXc" frameborder="0" allowfullscreen></iframe>
@@ -267,6 +272,7 @@
 
 ## Index (Hungary)
 [Élő sejtekből építettek robotot](https://index.hu/techtud/2020/01/14/elo_sejtekbol_epitettek_robotot/)
+<br>
 [[PDF](https://drive.google.com/file/d/14_y-AgUCR9BzYYLnhhtHvMQ4Ol-zJv-l/view)]
 
 ## Le Scienze (Italy)
@@ -294,6 +300,8 @@
 
 ## El Comercio (Peru)
 [Biotecnología: usan células de rana para diseñar microrrobots](https://elcomercio.pe/tecnologia/ciencias/maquinas-vivas-novedosas-cientificos-crean-los-primeros-robots-vivientes-noticia/)
+<br>
+[[PDF](https://drive.google.com/file/d/1HpRrauR_DKXqw5wRP12KoNkm7eB1Q1a4/view)]
 
 ## El Mundo (Spain)
 [Construyen a partir de células de rana los primeros robots vivos](https://www.elmundo.es/ciencia-y-salud/ciencia/2020/01/13/5e1ca7a5fc6c8394698b4591.html)
