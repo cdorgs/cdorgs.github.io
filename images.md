@@ -105,5 +105,6 @@ A manufactured organism with two muscular hind limbs was the most robust yet sta
 <br><br>
 
 ![image](https://cdorgs.github.io/img/36_Xenobot_On_A_Slide.jpg)
-A held slide of a CDO for scale.
+A held slide of a CDO (black speck in the center) for scale.
+The organism is tiny, only 500 microns across, but contains almost 5000 cells.
 
