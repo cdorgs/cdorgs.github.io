@@ -9,7 +9,7 @@
 <br>
 [[PDF](https://drive.google.com/file/d/1Zx0kNpsev8LwmAZdAWM7R6WTpei5GPP-/view)]
 <br>
-[[PDF of spread](https://drive.google.com/file/d/1_EPJKRaJLnkFFv3d0I4GSdo_DupjCVLk/view)]
+[[JPEG of spread](https://drive.google.com/file/d/1_EPJKRaJLnkFFv3d0I4GSdo_DupjCVLk/view)]
 
 
 ## The Guardian
@@ -83,7 +83,8 @@
 
 ## Smithsonian Magazine
 [Scientists Assemble Frog Stem Cells Into First "Living Machines"](https://www.smithsonianmag.com/innovation/scientists-assemble-frog-stem-cells-first-living-machines-180973947/)
-[[PDF](https://drive.google.com/file/d/1dGr6aLLjLoz8giUNJ3MB8fxVYlv9pq5j/view)
+<br>
+[[PDF](https://drive.google.com/file/d/1dGr6aLLjLoz8giUNJ3MB8fxVYlv9pq5j/view)]
 
 ## Wired
 [Meet Xenobot, an Eerie New Kind of Programmable Organism](https://www.wired.com/story/xenobot/)
@@ -103,6 +104,7 @@
 
 ## Scientific American
 [World's First "Living Machine" Created Using Frog Cells and Artificial Intelligence](https://www.scientificamerican.com/article/worlds-first-living-machine-created-using-frog-cells-and-artificial-intelligence/)
+<br>
 [[PDF](https://drive.google.com/file/d/1BOCp72W-lQ7KcVEmt0oPK06X1rfg5-pG/view)]
 
 ## Christian Science Monitor
@@ -117,6 +119,7 @@
 
 ## Fox News
 [Tiny "xenobots" made from cells could heal our bodies and clean the environment](https://www.foxnews.com/science/tiny-xenobots-cells-heal-bodies-clean-environment)
+[[PDF](https://drive.google.com/file/d/1Iwer9tbDiQkIe-K7ljw3MisY7YR3kZ4f/view)]
 
 ## New York Post
 [World's first "living robots" are made from the stem cells of frogs](https://nypost.com/video/worlds-first-living-robots-are-made-from-the-stem-cells-of-frogs/)
@@ -129,18 +132,28 @@
 
 ## CTV News
 [The "xenobot" is the world's newest robot -- and it's made from living animal cells](https://www.ctvnews.ca/sci-tech/the-xenobot-is-the-world-s-newest-robot-and-it-s-made-from-living-animal-cells-1.4765793)
+<br>
+[[PDF](https://drive.google.com/file/d/11FSZHdL0gTHsyVeMTHgBoiHWf2HwwPdi/view)]
 
-## Independent
+## The Independent
 [Scientists Create First "Living Robots" in Major Breakthrough](https://www.independent.co.uk/life-style/gadgets-and-tech/news/living-robots-xenobots-living-cells-frog-embryos-a9282251.html)
+<br>
+[[PDF](https://drive.google.com/file/d/1qfVACHPkyReQ_omH_VagUEQ8k-v65tG8/view)]
 
 ## Popular Science
 [These tiny living robots could help science eavesdrop on cellular gossip](https://www.popsci.com/story/science/frog-cell-living-robot/)
+<br>
+[[PDF](https://drive.google.com/file/d/158NLokZj5z_yCrTdk7xZ0zfEtsOPfYFt/view)]
 
 ## Popular Mechanics
 [These Are the First Living Robots: Machines Made from Frog Stem Cells](https://www.popularmechanics.com/technology/robots/a30514544/xenobot-programmable-organism/)
+<br>
+[[PDF](https://drive.google.com/file/d/1co24AbjILOeBU444oUu9putSfspBYJCO/view)]
 
 ## The Scientist
 [Algorithm Designs Robots Using Frog Cells](https://www.the-scientist.com/news-opinion/algorithm-designs-robots-using-frog-cells-66961)
+<br>
+[[PDF](https://drive.google.com/file/d/1wtIqGpxmstW3MUIcHhIeAsRM36L835hh/view)]
 
 ## The Biologist
 [The first organism whose evolutionary history was in a computer (with Michael Levin)](https://thebiologist.rsb.org.uk/biologist/158-biologist/features/2296-professor-michael-levin-interview)
@@ -159,6 +172,13 @@
 
 ## Communications of the ACM
 [UVM, Tufts Team Builds 'Living' Robots](https://cacm.acm.org/careers/242175-uvm-tufts-team-builds-living-robots/fulltext)
+<br>
+[[PDF](https://drive.google.com/file/d/1ZeUNJKMN2nmW11Lj-k7Zz9TSDVcO7Vbr/view)]
+
+## IEEE Spectrum
+[AI-Designed 'Living Robots' Crawl, Heal Themselves](https://spectrum.ieee.org/the-human-os/biomedical/devices/aidesigned-living-robots-crawl-heal-themselves)
+<rb>
+[[PDF](https://drive.google.com/file/d/1FfabeRjtI7e4hGqVWggXVovDYDJvxSRD/view)]
 
 ## Inverse
 [Scientist Develop "Walking Caviar" to Make the First-Ever Living Machine](https://www.inverse.com/article/62220-scientists-create-living-machine)
@@ -227,6 +247,8 @@
 
 ## L'Express (France)
 [Grenouilles conçues par ordinateur : des scientifiques créent les premiers robots vivants](https://www.lexpress.fr/actualite/sciences/grenouilles-androides-des-scientifiques-creent-les-premiers-robots-vivants_2114063.html)
+<br>
+[[PDF](https://drive.google.com/file/d/1cnuR9omz8DGk6ji1vLw3NgXBtpDh-2hk/view)
 
 ## RMC Découverte (France)
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/--Ber4QezXc" frameborder="0" allowfullscreen></iframe>
