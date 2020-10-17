@@ -63,6 +63,9 @@
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/749996632&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/skriegman" title="Computer-designed organisms" target="_blank" style="color: #cccccc; text-decoration: none;">Computer-designed organisms</a> · <a href="https://soundcloud.com/skriegman/cbc-quirks-quarks-scientists-create-a-robot-made-entirely-of-living-cells" title="CBC Quirks &amp; Quarks: Scientists Create A Robot Made Entirely Of Living Cells" target="_blank" style="color: #cccccc; text-decoration: none;">CBC Quirks &amp; Quarks: Scientists Create A Robot Made Entirely Of Living Cells</a></div>
 
 
+## The Bugle
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/749561029&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/skriegman" title="Computer-designed organisms" target="_blank" style="color: #cccccc; text-decoration: none;">Computer-designed organisms</a> · <a href="https://soundcloud.com/skriegman/the-bugle-ep-4137-xenobots" title="The Bugle Ep. 4137: Xenobots" target="_blank" style="color: #cccccc; text-decoration: none;">The Bugle Ep. 4137: Xenobots</a></div>
+
 ## Wikipedia 
 [Xenobot](https://en.wikipedia.org/wiki/Xenobot)
 
@@ -200,12 +203,17 @@
 
 ## Daily Mail
 [The first LIVING robots](https://www.dailymail.co.uk/sciencetech/article-7882293/Tiny-living-robots-FROG-embryos-used-destroy-cancer-cells.html)
+[[PDF](https://drive.google.com/file/d/1FIEWk7y-6vkx3NXSeDHvAkmuRznZbplT/view)]
 
 ## Evening Standard
 [Scientists create world's first 'living robots' using frog embryos](https://www.standard.co.uk/news/world/scientists-create-worlds-first-living-robots-using-frog-embryos-a4333476.html)
+<br>
+[[PDF](https://drive.google.com/file/d/1rtGRSmTQWO45Nw7cqVbfTZQ5P305URC_/view)]
 
 ## The Irish Sun
 [SCIENTISTS are claiming to have made the first "living robots"](https://www.thesun.ie/tech/4987407/scientists-create-first-living-robots-made-from-cells-that-can-be-programmed-like-computers/)
+<br>
+[[PDF](https://drive.google.com/file/d/1bHUAeYtDVqVen8SwmJA6AYkZztpcyMrg/view)]
 
 ## The Times
 [How tiny 'biobots' could enter bodies to clean arteries and administer drugs](https://www.thetimes.co.uk/article/how-tiny-biobots-could-enter-bodies-to-clean-arteries-and-administer-drugs-wrs2l7v3l)
@@ -214,10 +222,6 @@
 [Living robots created as scientists turn frog cells into 'entirely new life-forms'](https://www.telegraph.co.uk/science/2020/01/13/living-robots-created-scientists-turn-frog-cells-entirely-new/)
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/q_Vg7-23PAQ" frameborder="0" allowfullscreen></iframe>
-
-
-## The Bugle
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/749561029&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/skriegman" title="Computer-designed organisms" target="_blank" style="color: #cccccc; text-decoration: none;">Computer-designed organisms</a> · <a href="https://soundcloud.com/skriegman/the-bugle-ep-4137-xenobots" title="The Bugle Ep. 4137: Xenobots" target="_blank" style="color: #cccccc; text-decoration: none;">The Bugle Ep. 4137: Xenobots</a></div>
 
 ## ESPN
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/AT9Yq-19inA" frameborder="0" allowfullscreen></iframe>
