@@ -102,9 +102,4 @@ The manufactured organism from just above is layered with heart muscle (now glow
 
 <img src="https://drive.google.com/uc?export=view&id=1D0mtddhmLyJCyS_IDFYqJ0oQM2Ze0s9w" width="100%">
 A manufactured organism with two muscular hind limbs was the most robust yet stable and energy-efficient configuration of passive (epidermis; green) and contractile (cardiac; red) tissues found by the computation design algorithm. 
-<br><br>
-
-<img src="https://drive.google.com/uc?export=view&id=1n-IZooZ4rs4zo8vg3fTqZpzEjBHrjZhJ" width="50%">
-A CDO on a slide.
-
 
