@@ -318,6 +318,9 @@
 <br>
 [[PDF](https://drive.google.com/file/d/1HpRrauR_DKXqw5wRP12KoNkm7eB1Q1a4/view)]
 
+## Gazeta Wyborcza (Poland)
+[Naukowcy z USA zbudowali pierwsze roboty z żywych komórek. Swoje "żywe" maszyny nazwali xenobotami](https://wyborcza.pl/7,75400,25595466,naukowcy-z-usa-zbudowali-pierwsze-roboty-z-zywych-komorek-swoje.html)
+
 ## El Mundo (Spain)
 [Construyen a partir de células de rana los primeros robots vivos](https://www.elmundo.es/ciencia-y-salud/ciencia/2020/01/13/5e1ca7a5fc6c8394698b4591.html)
 
