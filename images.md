@@ -12,7 +12,7 @@ This image was selected by _Nature_ as [one of the best science photos](https://
 More traces carved by CDO swarms.
 <br><br>
 
-![image](https://cdorgs.github.io/img/08_Group_work.jpg)
+![image](https://cdorgs.github.io/img/08_Group_Work.jpg)
 A swarm of CDOs herds particulate matter into a pile.
 <br><br>
 
