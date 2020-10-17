@@ -157,11 +157,11 @@ main.main-content {
 
         a:link, a:visited {
             border: 0;
-            color: $header-bg-color-secondary;
+            color: $section-headings-color;
         }
 
         a:hover, a:focus {
-            color: $section-headings-color;
+            color: $header-bg-color-secondary;
             border-bottom: none; // 1px dashed #fff;
             text-decoration: none;
         } 
