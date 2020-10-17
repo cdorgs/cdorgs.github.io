@@ -16,7 +16,7 @@
 
 [Xenobot: how did earth's newest lifeforms get their name?](https://www.theguardian.com/books/2020/jan/16/xenobot-word-of-the-week)
 <br>
-[[PDF](https://drive.google.com/file/d/1mzYnNxv559_F1y0S7D9USEjUoB8dBYk0/view)
+[[PDF](https://drive.google.com/file/d/1mzYnNxv559_F1y0S7D9USEjUoB8dBYk0/view)]
 
 
 ## CNN
