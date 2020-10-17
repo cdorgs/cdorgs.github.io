@@ -8,6 +8,8 @@
 [Meet the Xenobots, Virtual Creatures Brought to Life](https://www.nytimes.com/2020/04/03/science/xenobots-robots-frogs-xenopus.html)
 <br>
 [[PDF](https://drive.google.com/file/d/1Zx0kNpsev8LwmAZdAWM7R6WTpei5GPP-/view)]
+<br>
+[[PDF of spread](https://drive.google.com/file/d/1_EPJKRaJLnkFFv3d0I4GSdo_DupjCVLk/view)]
 
 
 ## The Guardian
@@ -26,6 +28,7 @@
 
 ## Sky News
 [The world's first 'living robots' unveiled - and they can self-heal](https://news.sky.com/story/the-worlds-first-living-robots-unveiled-and-they-can-self-heal-11908217)
+<br>
 [[PDF](https://drive.google.com/file/d/1gktTrRMPVZLoDagZuai87b47pcIvhfyl/view)]
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/FDtKmavEQsc" frameborder="0" allowfullscreen></iframe>
@@ -78,6 +81,10 @@
 <br>
 [[PDF](https://drive.google.com/file/d/18W-v_7uI2U8P-yv_QpoO6ShJUiO2juyU/view)]
 
+## Smithsonian Magazine
+[Scientists Assemble Frog Stem Cells Into First "Living Machines"](https://www.smithsonianmag.com/innovation/scientists-assemble-frog-stem-cells-first-living-machines-180973947/)
+[[PDF](https://drive.google.com/file/d/1dGr6aLLjLoz8giUNJ3MB8fxVYlv9pq5j/view)
+
 ## Wired
 [Meet Xenobot, an Eerie New Kind of Programmable Organism](https://www.wired.com/story/xenobot/)
 <br>
@@ -87,23 +94,21 @@
 [Scientists build machines based on living cells (PDF)](https://drive.google.com/file/d/1y7U89WWThWrLpSDYT9QJlD9FKAvVs0vF/view)
 
 ## BBC Science Focus
-[Living Robots Built From Stem Cells (PDF)](https://drive.google.com/file/d/1yYJSfGS_FkXxTzAAp5N1ismo3WioCohM/view?usp=sharing)
+[Living Robots Built From Stem Cells (PDF)](https://drive.google.com/file/d/1yYJSfGS_FkXxTzAAp5N1ismo3WioCohM/view)
 
 ## MIT Technology Review
 [These "xenobots" are living machines designed by an evolutionary algorithm](https://www.technologyreview.com/2020/01/14/238128/these-xenobots-are-living-machines-designed-by-an-evolutionary-algorithm/)
 <br>
-[[PDF](https://drive.google.com/file/d/1mmT5UFc0bDbgxJ3EY5aI7sgN5NMZEvJc/view?usp=sharing)]
+[[PDF](https://drive.google.com/file/d/1mmT5UFc0bDbgxJ3EY5aI7sgN5NMZEvJc/view)]
 
 ## Scientific American
 [World's First "Living Machine" Created Using Frog Cells and Artificial Intelligence](https://www.scientificamerican.com/article/worlds-first-living-machine-created-using-frog-cells-and-artificial-intelligence/)
-
-## Smithsonian Magazine
-[Scientists Assemble Frog Stem Cells Into First "Living Machines"](https://www.smithsonianmag.com/innovation/scientists-assemble-frog-stem-cells-first-living-machines-180973947/)
+[[PDF](https://drive.google.com/file/d/1BOCp72W-lQ7KcVEmt0oPK06X1rfg5-pG/view)]
 
 ## Christian Science Monitor
 [Behold the xenobots -- part frog, part robot. But are they alive?](https://www.csmonitor.com/Science/2020/0131/Behold-the-xenobots-part-frog-part-robot.-But-are-they-alive)
 <br>
-[[PDF](https://drive.google.com/file/d/1wrL1OZXVaTY14d-2aZLg9-u49wh831sX/view?usp=sharing)]
+[[PDF](https://drive.google.com/file/d/1wrL1OZXVaTY14d-2aZLg9-u49wh831sX/view)]
 
 ## Aljazeera
 [The genesis of robotic life and the future of humanity](https://www.aljazeera.com/opinions/2020/2/7/the-genesis-of-robotic-life-and-the-future-of-humanity/)
@@ -140,7 +145,7 @@
 ## The Biologist
 [The first organism whose evolutionary history was in a computer (with Michael Levin)](https://thebiologist.rsb.org.uk/biologist/158-biologist/features/2296-professor-michael-levin-interview)
 <br>
-[[PDF of cover](https://drive.google.com/file/d/1-EH31Iyozuus3yExgcYuUDWwhqLlLjTt/view?usp=sharing)]
+[[PDF of cover](https://drive.google.com/file/d/1-EH31Iyozuus3yExgcYuUDWwhqLlLjTt/view)]
 
 ## The Hill
 [World's first living robots created using frog stem cells](https://thehill.com/changing-america/well-being/medical-advances/478406-worlds-first-living-robots-created-using-frog)
@@ -205,6 +210,13 @@
 
 # **International Coverage:**
 
+## MIT Technology Review China
+[全球首个用青蛙细胞制造“活体机器人”诞生，遭破坏时可自愈！药物递送领域大有可为｜独家专访](http://www.mittrchina.com/news/4660)
+[[PDF](https://drive.google.com/file/d/11SnlF7qnnUPn073R5x-y96gXYjMR4Hh-/view)]
+
+## Diario El Universo (Ecuador)
+[Creados los "xenobots", organismos descritos como "robots vivos"](https://www.eluniverso.com/larevista/2020/01/13/nota/7689411/creados-xenobots-organismos-descritos-como-robots-vivos)
+
 ## Helsingin Sanomat (Finland)
 [Soluista tehty minirobotti on kuin uusi elämänmuoto](https://www.hs.fi/tiede/art-2000006511730.html)
 
@@ -231,14 +243,26 @@
 ## Skai (Greece)
 [Δημιουργήθηκαν τα πρώτα ζωντανά ρομπότ](https://www.skai.gr/news/technology/dimiourgithikan-ta-prota-zontana-rompot)
 
+## Index (Hungary)
+[Élő sejtekből építettek robotot](https://index.hu/techtud/2020/01/14/elo_sejtekbol_epitettek_robotot/)
+[[PDF](https://drive.google.com/file/d/14_y-AgUCR9BzYYLnhhtHvMQ4Ol-zJv-l/view)]
+
 ## Le Scienze (Italy)
 [Ecco gli xenobot, i primi robot fatti di cellule viventi](https://www.lescienze.it/news/2020/01/15/news/robot_viventi-4659662/)
+
+## Newsweek Japan
+[カエルの幹細胞から生体ロボットが世界で初めて開発　自己再生もする](https://www.newsweekjapan.jp/stories/world/2020/01/post-92231.php)
+<br>
+[[PDF](https://drive.google.com/file/d/1n_TOQiQJf70j2ALPVnJzQolfz2YOmPKk/view)]
 
 ## Noticieros Televisa (Mexico)
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/ajzSBHDaGUQ" frameborder="0" allowfullscreen></iframe>
 
 ## El Heraldo de México
 [Biobots, la nueva revolución](https://heraldodemexico.com.mx/mundo/2020/1/17/biobots-la-nueva-revolucion-146006.html)
+
+## Newsweek México
+[Científicos estadounidenses crean los primeros robots vivos con células de ranas](https://newsweekespanol.com/2020/01/cientificos-estadounidenses-crean-primeros-robots-vivos-celulas-ranas/)
 
 ## de Volkskrant (Netherlands)
 [Wetenschappers bouwen ‘levende robot’ van kikkercellen](https://www.volkskrant.nl/wetenschap/wetenschappers-bouwen-levende-robot-van-kikkercellen~bf04cb86/)
