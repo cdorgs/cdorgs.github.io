@@ -14,6 +14,10 @@
 <br>
 [[PDF](https://drive.google.com/file/d/1_sFuOfZW1EQ00QtXwgKA7-esRgn4SRIT/view)]
 
+[Xenobot: how did earth's newest lifeforms get their name?](https://www.theguardian.com/books/2020/jan/16/xenobot-word-of-the-week)
+<br>
+[[PDF](https://drive.google.com/file/d/1mzYnNxv559_F1y0S7D9USEjUoB8dBYk0/view)
+
 
 ## CNN
 [Meet the xenobot: world's first living, self-healing robots created from frog stem cells](https://www.cnn.com/2020/01/13/us/living-robot-stem-cells-intl-hnk-scli-scn/index.html)
