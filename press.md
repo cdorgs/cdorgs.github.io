@@ -217,6 +217,8 @@
 
 ## The Times
 [How tiny 'biobots' could enter bodies to clean arteries and administer drugs](https://www.thetimes.co.uk/article/how-tiny-biobots-could-enter-bodies-to-clean-arteries-and-administer-drugs-wrs2l7v3l)
+[[PDF](https://drive.google.com/file/d/1kRQptvQR6aW2Sqw8b_SOkvZ0eSTmq70U/view)]
+
 
 ## The Telegraph
 [Living robots created as scientists turn frog cells into 'entirely new life-forms'](https://www.telegraph.co.uk/science/2020/01/13/living-robots-created-scientists-turn-frog-cells-entirely-new/)
