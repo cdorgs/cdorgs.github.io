@@ -102,6 +102,13 @@
 
 ## Christian Science Monitor
 [Behold the xenobots -- part frog, part robot. But are they alive?](https://www.csmonitor.com/Science/2020/0131/Behold-the-xenobots-part-frog-part-robot.-But-are-they-alive)
+<br>
+[[PDF](https://drive.google.com/file/d/1wrL1OZXVaTY14d-2aZLg9-u49wh831sX/view?usp=sharing)]
+
+## Aljazeera
+[The genesis of robotic life and the future of humanity](https://www.aljazeera.com/opinions/2020/2/7/the-genesis-of-robotic-life-and-the-future-of-humanity/)
+<br>
+[[PDF](https://drive.google.com/file/d/14fLEwJuy7cvq4QefD9L9LQOdvCvDqBZf/view)]
 
 ## Fox News
 [Tiny "xenobots" made from cells could heal our bodies and clean the environment](https://www.foxnews.com/science/tiny-xenobots-cells-heal-bodies-clean-environment)
@@ -144,6 +151,9 @@
 [Robots made of living animal cells](https://cosmosmagazine.com/technology/researchers-create-robots-made-of-living-animal-cells/)
 <br>
 [[PDF](https://drive.google.com/file/d/1VEo3ySD2gjs7gnT3hiDGI_9pQ71fWQcU/view)]
+
+## Communications of the ACM
+[UVM, Tufts Team Builds 'Living' Robots](https://cacm.acm.org/careers/242175-uvm-tufts-team-builds-living-robots/fulltext)
 
 ## Inverse
 [Scientist Develop "Walking Caviar" to Make the First-Ever Living Machine](https://www.inverse.com/article/62220-scientists-create-living-machine)
@@ -200,6 +210,7 @@
 
 ## Science & Vie (France)
 [Voici le Xénobot, premier robot biologique](https://www.science-et-vie.com/technos-et-futur/voici-le-xenobot-premier-robot-biologique-54741)
+<br>
 [[Magazine PDF](https://drive.google.com/file/d/17hEdtIP3pvIA7IKjB7ZPtRgoNDb26osV/view)]
 
 ## L'Express (France)
