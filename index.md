@@ -10,10 +10,6 @@ A computer-designed organism (CDO), with the red/green colored design from the a
 
 ![image](https://cdorgs.github.io/img/04_Multiple_Design_Organism_Pairs.png)
 AI methods automatically design diverse candidate lifeforms in simulation (top row) to perform some desired function, and transferable designs are then created using a cell-based construction toolkit to realize living systems (bottom row) with the predicted behaviors.
-<br><br>
-
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/gwpJRvlqbFY" frameborder="0" allowfullscreen></iframe>
-The beating heart muscle of a CDO turned on its side.
 <br>
 
 
