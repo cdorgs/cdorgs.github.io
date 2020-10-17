@@ -1,9 +1,6 @@
 ## Press
 
 
-# **English Coverage:**
-
-
 ## New York Times
 [Meet the Xenobots, Virtual Creatures Brought to Life](https://www.nytimes.com/2020/04/03/science/xenobots-robots-frogs-xenopus.html)
 <br>
@@ -227,6 +224,12 @@
 
 ## ESPN
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/AT9Yq-19inA" frameborder="0" allowfullscreen></iframe>
+
+## WCAX-TV (CBS 3)
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/iZU4yzD9hAA" frameborder="0" allowfullscreen></iframe>
+
+## WPTZ (NBC5) 
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/ONSC5JgcRZk" frameborder="0" allowfullscreen></iframe>
 
 ## Engadget
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/DUeQZt1XZUw" frameborder="0" allowfullscreen></iframe>
