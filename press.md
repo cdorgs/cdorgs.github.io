@@ -119,6 +119,7 @@
 
 ## Fox News
 [Tiny "xenobots" made from cells could heal our bodies and clean the environment](https://www.foxnews.com/science/tiny-xenobots-cells-heal-bodies-clean-environment)
+<br>
 [[PDF](https://drive.google.com/file/d/1Iwer9tbDiQkIe-K7ljw3MisY7YR3kZ4f/view)]
 
 ## New York Post
@@ -181,14 +182,18 @@
 
 ## IEEE Spectrum
 [AI-Designed 'Living Robots' Crawl, Heal Themselves](https://spectrum.ieee.org/the-human-os/biomedical/devices/aidesigned-living-robots-crawl-heal-themselves)
-<rb>
+<br>
 [[PDF](https://drive.google.com/file/d/1FfabeRjtI7e4hGqVWggXVovDYDJvxSRD/view)]
 
 ## Inverse
 [Scientist Develop "Walking Caviar" to Make the First-Ever Living Machine](https://www.inverse.com/article/62220-scientists-create-living-machine)
+<br>
+[[PDF](https://drive.google.com/file/d/1-LAmX4Y1oZeIMijVt8iTYWKWd4btFWcV/view)]
 
 ## Gizmodo
 [Made Entirely From Cells, These Adorable 'Xenobots' Are Practically Alive](https://gizmodo.com/made-entirely-from-cells-these-adorable-xenobots-are-1840996434)
+<br>
+[[PDF](https://drive.google.com/file/d/1PDenpwfJW8nVR0xh9xTTBjXReHJkNbBa/view)]
 
 ## Mashable
 [In true Frankenstein fashion, researchers create living machines from frog embryos](https://mashable.com/video/xenobots-living-robots-frog-embryo/)
