@@ -1,7 +1,7 @@
 ## Press
 
 
-## New York Times
+## The New York Times
 [Meet the Xenobots, Virtual Creatures Brought to Life](https://www.nytimes.com/2020/04/03/science/xenobots-robots-frogs-xenopus.html)
 <br>
 [[PDF](https://drive.google.com/file/d/1Zx0kNpsev8LwmAZdAWM7R6WTpei5GPP-/view)]
