@@ -70,7 +70,7 @@
 ## Wikipedia 
 [Xenobot](https://en.wikipedia.org/wiki/Xenobot)
 
-## Boston Globe
+## The Boston Globe
 [Scientists at UVM, Tufts create "living robots"](https://www.bostonglobe.com/2020/01/13/metro/scientists-uvm-tufts-create-living-robots/)
 <br>
 [[PDF](https://drive.google.com/file/d/17t_jtAkOPxczeI0dBEv2Ned6-fJrVJt7/view)]
