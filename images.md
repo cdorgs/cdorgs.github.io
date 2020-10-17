@@ -16,7 +16,7 @@ More traces carved by CDO swarms.
 A swarm of CDOs herds particulate matter into a pile.
 <br><br>
 
-![image](https://cdorgs.github.io/img/09_Group_Particle_Aggregation.jpeg)
+![image](https://cdorgs.github.io/img/09_Group_Particle_Aggregation.jpg)
 A swarm of CDOs herds particulate matter into a neat pile.
 <br><br>
 
@@ -104,6 +104,6 @@ The manufactured organism from just above is layered with heart muscle (now glow
 A manufactured organism with two muscular hind limbs was the most robust yet stable and energy-efficient configuration of passive (epidermis; green) and contractile (cardiac; red) tissues found by the computation design algorithm. 
 <br><br>
 
-![image](https://cdorgs.github.io/img/36_Xenobot_On_A_Slide.HEIC)
+![image](https://cdorgs.github.io/img/36_Xenobot_On_A_Slide.jpg)
 A held slide of a CDO for scale.
 
