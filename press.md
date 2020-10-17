@@ -9,12 +9,17 @@
 [[JPEG of spread](https://drive.google.com/file/d/1_EPJKRaJLnkFFv3d0I4GSdo_DupjCVLk/view)]
 
 
+Book Review. [What if, Instead of the Internet, We Had Xenobots?](https://www.nytimes.com/2020/04/23/books/review/bubblegum-adam-levin.html)
+<br>
+[[PDF](https://drive.google.com/file/d/1-zfnp2GtiiKgRwUM1JaAnLr-O3TTIZ2v/view)]
+
+
 ## The Guardian
 [Scientists use stem cells from frogs to build first living robots](https://www.theguardian.com/science/2020/jan/13/scientists-use-stem-cells-from-frogs-to-build-first-living-robots)
 <br>
 [[PDF](https://drive.google.com/file/d/1_sFuOfZW1EQ00QtXwgKA7-esRgn4SRIT/view)]
 
-[Xenobot: how did earth's newest lifeforms get their name?](https://www.theguardian.com/books/2020/jan/16/xenobot-word-of-the-week)
+Word of the Week. [Xenobot: how did earth's newest lifeforms get their name?](https://www.theguardian.com/books/2020/jan/16/xenobot-word-of-the-week)
 <br>
 [[PDF](https://drive.google.com/file/d/1mzYnNxv559_F1y0S7D9USEjUoB8dBYk0/view)]
 
