@@ -100,11 +100,14 @@ Word of the Week. [Xenobot: how did earth's newest lifeforms get their name?](ht
 <br>
 [[PDF](https://drive.google.com/file/d/1e6DAbOFmftYhztqH_utz0Tc_E9XfcvRY/view)]
 
-## Science Illustrated
-[Scientists build machines based on living cells (PDF)](https://drive.google.com/file/d/1y7U89WWThWrLpSDYT9QJlD9FKAvVs0vF/view)
+## The Week
+[Robots made from frog cells (PDF)](https://drive.google.com/file/d/17LFovedlKpMz8giNMVXp5segIAIanirz/view)
 
 ## BBC Science Focus
 [Living Robots Built From Stem Cells (PDF)](https://drive.google.com/file/d/1yYJSfGS_FkXxTzAAp5N1ismo3WioCohM/view)
+
+## Science Illustrated
+[Scientists build machines based on living cells (PDF)](https://drive.google.com/file/d/1y7U89WWThWrLpSDYT9QJlD9FKAvVs0vF/view)
 
 ## MIT Technology Review
 [These "xenobots" are living machines designed by an evolutionary algorithm](https://www.technologyreview.com/2020/01/14/238128/these-xenobots-are-living-machines-designed-by-an-evolutionary-algorithm/)
@@ -234,7 +237,6 @@ Word of the Week. [Xenobot: how did earth's newest lifeforms get their name?](ht
 [How tiny 'biobots' could enter bodies to clean arteries and administer drugs](https://www.thetimes.co.uk/article/how-tiny-biobots-could-enter-bodies-to-clean-arteries-and-administer-drugs-wrs2l7v3l)
 <br>
 [[PDF](https://drive.google.com/file/d/1kRQptvQR6aW2Sqw8b_SOkvZ0eSTmq70U/view)]
-
 
 ## The Telegraph
 [Living robots created as scientists turn frog cells into 'entirely new life-forms'](https://www.telegraph.co.uk/science/2020/01/13/living-robots-created-scientists-turn-frog-cells-entirely-new/)
