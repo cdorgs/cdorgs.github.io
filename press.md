@@ -323,6 +323,8 @@ Word of the Week. [Xenobot: how did earth's newest lifeforms get their name?](ht
 
 ## El Heraldo de México
 [Biobots, la nueva revolución](https://heraldodemexico.com.mx/mundo/2020/1/17/biobots-la-nueva-revolucion-146006.html)
+[[Infographic](https://drive.google.com/file/d/1q91cWKWjrBcIrTdqE93SCd0By11obyUR/view)]
+
 
 ## Newsweek México
 [Científicos estadounidenses crean los primeros robots vivos con células de ranas](https://newsweekespanol.com/2020/01/cientificos-estadounidenses-crean-primeros-robots-vivos-celulas-ranas/)
