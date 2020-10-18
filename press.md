@@ -174,6 +174,9 @@ Word of the Week. [Xenobot: how did earth's newest lifeforms get their name?](ht
 <br>
 [[PDF of cover](https://drive.google.com/file/d/1-EH31Iyozuus3yExgcYuUDWwhqLlLjTt/view)]
 
+## The Irish Independent
+[Tiny robot frogs made from living cells 'an entirely new life-form'](https://www.independent.ie/world-news/north-america/tiny-robot-frogs-made-from-living-cells-an-entirely-new-life-form-38859604.html)
+
 ## The Hill
 [World's first living robots created using frog stem cells](https://thehill.com/changing-america/well-being/medical-advances/478406-worlds-first-living-robots-created-using-frog)
 <br>
