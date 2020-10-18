@@ -174,6 +174,10 @@ Word of the Week. [Xenobot: how did earth's newest lifeforms get their name?](ht
 <br>
 [[PDF of cover](https://drive.google.com/file/d/1-EH31Iyozuus3yExgcYuUDWwhqLlLjTt/view)]
 
+## The Conversation
+[Not bot, not beast: scientists create first ever living, programmable organism](https://theconversation.com/not-bot-not-beast-scientists-create-first-ever-living-programmable-organism-129980)
+[[PDF](https://drive.google.com/file/d/12BdigSd6Eb5625vUEnL7f2N5Kb2qczUw/view)]
+
 ## The Irish Independent
 [Tiny robot frogs made from living cells 'an entirely new life-form'](https://www.independent.ie/world-news/north-america/tiny-robot-frogs-made-from-living-cells-an-entirely-new-life-form-38859604.html)
 
