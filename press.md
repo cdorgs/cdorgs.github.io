@@ -8,10 +8,13 @@
 <br>
 [[JPEG of spread](https://drive.google.com/file/d/1_EPJKRaJLnkFFv3d0I4GSdo_DupjCVLk/view)]
 
-
 Book Review. [What if, Instead of the Internet, We Had Xenobots?](https://www.nytimes.com/2020/04/23/books/review/bubblegum-adam-levin.html)
 <br>
 [[PDF](https://drive.google.com/file/d/1-zfnp2GtiiKgRwUM1JaAnLr-O3TTIZ2v/view)]
+
+Friday Evening Briefing. [Coronavirus, Masks, Bill Withers: Your Friday Evening Briefing](https://www.nytimes.com/2020/04/03/briefing/coronavirus-masks-bill-withers.html)
+<br>
+[[PDF](https://drive.google.com/file/d/1kBFlHX4KFcfzy98UaDM6_OVuRG8eSq4u/view)]
 
 
 ## The Guardian
@@ -52,10 +55,14 @@ Word of the Week. [Xenobot: how did earth's newest lifeforms get their name?](ht
 
 
 ## BBC Radio 4 Sunday
+[A Hidden Life, Xenobots, Synagogue Leadership Row](https://www.bbc.co.uk/programmes/m000df8b)
+
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/746139253&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/skriegman" title="Computer-designed organisms" target="_blank" style="color: #cccccc; text-decoration: none;">Computer-designed organisms</a> · <a href="https://soundcloud.com/skriegman/bbc-radio-4-the-religious-moral-and-ethical-implications-of-xenobots" title="BBC Radio 4 Sunday: The religious, moral, and ethical implications of Xenobots." target="_blank" style="color: #cccccc; text-decoration: none;">BBC Radio 4 Sunday: The religious, moral, and ethical implications of Xenobots.</a></div>
 
 
 ## Science Friday
+[Living Robots, Designed By Computer](https://www.sciencefriday.com/segments/livingrobots/)
+
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/749995210&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/skriegman" title="Computer-designed organisms" target="_blank" style="color: #cccccc; text-decoration: none;">Computer-designed organisms</a> · <a href="https://soundcloud.com/skriegman/scifri-living-robots-designed-by-computer" title="SciFri: Living Robots, Designed By Computer" target="_blank" style="color: #cccccc; text-decoration: none;">SciFri: Living Robots, Designed By Computer</a></div>
 
 
@@ -66,6 +73,8 @@ Word of the Week. [Xenobot: how did earth's newest lifeforms get their name?](ht
 
 
 ## CBC Quirks & Quarks
+[Scientists create a robot made entirely of living cells](https://www.cbc.ca/radio/quirks/jan-18-ancient-gum-preserves-genome-a-living-robot-wolf-puppies-play-fetch-and-more-1.5429990/scientists-create-a-robot-made-entirely-of-living-cells-1.5430009)
+
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/749996632&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/skriegman" title="Computer-designed organisms" target="_blank" style="color: #cccccc; text-decoration: none;">Computer-designed organisms</a> · <a href="https://soundcloud.com/skriegman/cbc-quirks-quarks-scientists-create-a-robot-made-entirely-of-living-cells" title="CBC Quirks &amp; Quarks: Scientists Create A Robot Made Entirely Of Living Cells" target="_blank" style="color: #cccccc; text-decoration: none;">CBC Quirks &amp; Quarks: Scientists Create A Robot Made Entirely Of Living Cells</a></div>
 
 
@@ -177,6 +186,9 @@ Word of the Week. [Xenobot: how did earth's newest lifeforms get their name?](ht
 <br>
 [[PDF of cover](https://drive.google.com/file/d/1-EH31Iyozuus3yExgcYuUDWwhqLlLjTt/view)]
 
+## The Science Times
+[Meet Xenobots: World's First Living and Self-Healing Robots Using Stem Cells From Frog Embryos](https://www.sciencetimes.com/articles/25201/20200403/xenobots-worlds-first-living-self-healing-robots-using-stem-cells.htm)
+
 ## The Conversation
 [Not bot, not beast: scientists create first ever living, programmable organism](https://theconversation.com/not-bot-not-beast-scientists-create-first-ever-living-programmable-organism-129980)
 <br>
@@ -218,6 +230,16 @@ Word of the Week. [Xenobot: how did earth's newest lifeforms get their name?](ht
 ## Mashable
 [In true Frankenstein fashion, researchers create living machines from frog embryos](https://mashable.com/video/xenobots-living-robots-frog-embryo/)
 
+## Big Think
+[Researchers build living robots from frog cells](https://bigthink.com/surprising-science/living-robots)
+<br>
+[[PDF](https://drive.google.com/file/d/1613zAUz3SHlc49rnovrLNBs_m4QoSuFe/view)]
+
+## Design News
+['Living' Robots Combine Machines and Organisms](https://www.designnews.com/materials-assembly/living-robots-combine-machines-and-organisms)
+<br>
+[[PDF](https://drive.google.com/file/d/1x1ULD7eTF5xlqeVMhENyWV7ZJEWJ29W5/view)]
+
 ## Daily Mail
 [The first LIVING robots](https://www.dailymail.co.uk/sciencetech/article-7882293/Tiny-living-robots-FROG-embryos-used-destroy-cancer-cells.html)
 <br>
@@ -232,6 +254,21 @@ Word of the Week. [Xenobot: how did earth's newest lifeforms get their name?](ht
 [SCIENTISTS are claiming to have made the first "living robots"](https://www.thesun.ie/tech/4987407/scientists-create-first-living-robots-made-from-cells-that-can-be-programmed-like-computers/)
 <br>
 [[PDF](https://drive.google.com/file/d/1bHUAeYtDVqVen8SwmJA6AYkZztpcyMrg/view)]
+
+## Times of India
+[US scientists create world's first-ever 'living robots'](https://timesofindia.indiatimes.com/home/science/meet-xenobots-worlds-first-ever-living-robots/articleshow/73260339.cms)
+<br>
+[[PDF](https://drive.google.com/file/d/1YjJMmzJ2goOQy0Bc-DDWPJrCaPbO5S0N/view)
+
+## Times Now
+[Xenobots: Scientists create world's first self-healing robots using frog stem cells](https://www.timesnownews.com/health/article/xenobots-scientists-create-worlds-first-self-healing-robots-using-frog-stem-cells/542985)
+<br>
+[[PDF](https://drive.google.com/file/d/1xw0OhoSVTVMIHInblaAMGob2U7dGU52I/view)
+
+## The Financial Express
+[Artificial life: Development of Xenobots, programmable organisms to have far-reaching therapeutic implications](https://www.financialexpress.com/opinion/artificial-life-development-of-xenobots-programmable-organisms-to-have-far-reaching-therapeutic-implications/1824478/)
+<br>
+[[PDF](https://drive.google.com/file/d/1LdGBaMxNUrPJtcr6UGqLwAj1dYoBHrM9/view)]
 
 ## The Times
 [How tiny 'biobots' could enter bodies to clean arteries and administer drugs](https://www.thetimes.co.uk/article/how-tiny-biobots-could-enter-bodies-to-clean-arteries-and-administer-drugs-wrs2l7v3l)
