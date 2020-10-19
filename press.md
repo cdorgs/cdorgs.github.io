@@ -50,6 +50,8 @@ Word of the Week. [Xenobot: how did earth's newest lifeforms get their name?](ht
 <br>
 [[PDF](https://drive.google.com/file/d/1i59ac5ppF9JRnPhEYPvrVKBT5tUwK-hD/view)]
 
+Economist Radio: The Intelligence. [Tiny bots blur the line between biological and mechanical](https://www.economist.com/podcasts/2020/02/04/this-is-going-to-be-another-nail-in-the-potential-coffin-of-the-iowa-caucuses-an-app-polling-delay)
+
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/755242759&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/skriegman" title="Computer-designed organisms" target="_blank" style="color: #cccccc; text-decoration: none;">Computer-designed organisms</a> · <a href="https://soundcloud.com/skriegman/economist-radio-tiny-machines-made-from-the-stem-cells-of-frogs" title="Economist Radio: Tiny machines made from the stem cells of frogs" target="_blank" style="color: #cccccc; text-decoration: none;">Economist Radio: Tiny machines made from the stem cells of frogs</a></div>
 
 
