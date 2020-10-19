@@ -12,23 +12,20 @@ The source code and build instructions are distributed under an **Attribution-No
 
 ### A new CDO simulator.
 
-We recently developed a [new simulator](https://voxcraft.github.io/design) that is much faster than the one we used in our PNAS paper. 
+We recently developed new software to simulate xenobots which is much more powerful. 
+<br>
 
-The software has three parts:
+The software has two parts:
 <br>
 
 <a href="#viz"><i class="fas fa-desktop icon" title="viz"></i></a>
 &nbsp;&nbsp;&nbsp;&nbsp; 
-<a href="#viz">**viz**</a>: _draw and **vi**suali**z**e voxelbots in action._
+<a href="#viz">**viz**</a>: _draw and **vi**suali**z**e simulated xenobots._
 
 &nbsp;
 <a href="#sim"><i class="fas fa-running icon" title="sim"></i></a>
 &nbsp;&nbsp;&nbsp;&nbsp; 
 <a href="#sim">**sim**</a>: _gpu-accelerated **sim**ulation._
-
-<a href="#evo"><i class="fas fa-pastafarianism icon" title="evo"></i></a>
-&nbsp;&nbsp;&nbsp;
-<a href="#evo">**evo**</a>: _**evo**lutionary design._
 <br><br>
 
 
