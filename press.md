@@ -360,8 +360,15 @@ Word of the Week. [Xenobot: how did earth's newest lifeforms get their name?](ht
 <br>
 [[PDF](https://drive.google.com/file/d/14_y-AgUCR9BzYYLnhhtHvMQ4Ol-zJv-l/view)]
 
+
+## La Repubblica (Italy)	 	
+[Xenobot, il primo robot vivente fatto con cellule](https://www.repubblica.it/tecnologia/2020/01/14/news/xenobot_il_primo_robot_vivente_fatto_con_cellule-245775640/)
+<br>
+[[PDF](https://drive.google.com/file/d/1HM13ps2x7MSxpQeRmbXhYUDCNIY9wa7t/view)]
+
 ## Le Scienze (Italy)
 [Ecco gli xenobot, i primi robot fatti di cellule viventi](https://www.lescienze.it/news/2020/01/15/news/robot_viventi-4659662/)
+
 
 ## Newsweek Japan
 [カエルの幹細胞から生体ロボットが世界で初めて開発　自己再生もする](https://www.newsweekjapan.jp/stories/world/2020/01/post-92231.php)
