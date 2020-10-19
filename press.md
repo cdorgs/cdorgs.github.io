@@ -109,9 +109,6 @@ Word of the Week. [Xenobot: how did earth's newest lifeforms get their name?](ht
 
 ## The Telegraph
 [Living robots created as scientists turn frog cells into 'entirely new life-forms'](https://www.telegraph.co.uk/science/2020/01/13/living-robots-created-scientists-turn-frog-cells-entirely-new/)
-<!---
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/q_Vg7-23PAQ" frameborder="0" allowfullscreen></iframe>
--->
 
 ## The Independent
 [Scientists Create First "Living Robots" in Major Breakthrough](https://www.independent.co.uk/life-style/gadgets-and-tech/news/living-robots-xenobots-living-cells-frog-embryos-a9282251.html)
