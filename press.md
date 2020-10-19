@@ -372,6 +372,12 @@ Word of the Week. [Xenobot: how did earth's newest lifeforms get their name?](ht
 
 ## Trouw (Netherlands)
 [Wetenschappers creëren een nieuwe vorm van leven](https://www.trouw.nl/nieuws/wetenschappers-creeren-een-nieuwe-vorm-van-leven~b651a782/)
+<br>
+[[PDF](https://drive.google.com/file/d/136lhTcKnxTAaHrwrprCk4vrLKEJiYpSC/view)
+
+[Onderzoekers hebben met een supercomputer nieuwe organismen ontworpen. Is dat oké?](https://www.trouw.nl/nieuws/onderzoekers-hebben-met-een-supercomputer-nieuwe-organismen-ontworpen-is-dat-oke~b07d98a7/)
+<br>
+[[PDF](https://drive.google.com/file/d/14olKu-IO0gArPYwbajdSfZ6_dWdgzIzA/view)
 
 ## El Comercio (Peru)
 [Biotecnología: usan células de rana para diseñar microrrobots](https://elcomercio.pe/tecnologia/ciencias/maquinas-vivas-novedosas-cientificos-crean-los-primeros-robots-vivientes-noticia/)
