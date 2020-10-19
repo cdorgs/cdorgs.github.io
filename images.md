@@ -1,6 +1,8 @@
 ## Images
 
-The following images (plus a few more) are all released under a [Creative Commons license](http://creativecommons.org/licenses/by/4.0/) and can be [downloaded here](https://drive.google.com/drive/folders/1m2ZnuFK0BUGeozVG5K4NKPVOKoDVSmAy).
+The following images (plus a few more) can be [downloaded here](https://drive.google.com/drive/folders/1m2ZnuFK0BUGeozVG5K4NKPVOKoDVSmAy).
+All images are released under a [Creative Commons license](http://creativecommons.org/licenses/by/4.0/). 
+Please credit: "Douglas Blackiston and Sam Kriegman".
 <br><br>
 
 ![image](https://cdorgs.github.io/img/06_Vivo_Group_Behavior_Trace.jpg)
