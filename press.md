@@ -414,6 +414,8 @@ Word of the Week. [Xenobot: how did earth's newest lifeforms get their name?](ht
 
 ## El Mundo (Spain)
 [Construyen a partir de células de rana los primeros robots vivos](https://www.elmundo.es/ciencia-y-salud/ciencia/2020/01/13/5e1ca7a5fc6c8394698b4591.html)
+<br>
+[[PDF](https://drive.google.com/file/d/11wfvTrOCAss3AsJwpMXUXISeEclz8cBa/view)]
 
 ## El País (Spain)
 [Creadas por primera vez “máquinas vivientes” con células animales](https://elpais.com/elpais/2020/01/13/ciencia/1578934364_490067.html)
