@@ -199,10 +199,20 @@ Word of the Week. [Xenobot: how did earth's newest lifeforms get their name?](ht
 ## The Science Times
 [Meet Xenobots: World's First Living and Self-Healing Robots Using Stem Cells From Frog Embryos](https://www.sciencetimes.com/articles/25201/20200403/xenobots-worlds-first-living-self-healing-robots-using-stem-cells.htm)
 
+## Cosmos
+[Robots made of living animal cells](https://cosmosmagazine.com/technology/researchers-create-robots-made-of-living-animal-cells/)
+<br>
+[[PDF](https://drive.google.com/file/d/1VEo3ySD2gjs7gnT3hiDGI_9pQ71fWQcU/view)]
+
 ## The Conversation
 [Not bot, not beast: scientists create first ever living, programmable organism](https://theconversation.com/not-bot-not-beast-scientists-create-first-ever-living-programmable-organism-129980)
 <br>
 [[PDF](https://drive.google.com/file/d/12BdigSd6Eb5625vUEnL7f2N5Kb2qczUw/view)]
+
+## The Hill
+[World's first living robots created using frog stem cells](https://thehill.com/changing-america/well-being/medical-advances/478406-worlds-first-living-robots-created-using-frog)
+<br>
+[[PDF](https://drive.google.com/file/d/1xcLYI6tYEZpgXjGmL0pxFkRS4WkgeKxV/view)]
 
 ## Bloomberg
 [Frog embryo cells create 'living robots'](https://www.bloomberg.com/news/videos/2020-01-15/frog-embryo-cells-create-living-robots-video)
@@ -216,6 +226,10 @@ Word of the Week. [Xenobot: how did earth's newest lifeforms get their name?](ht
 [Tiny living robots made from frog cells could soon swim inside your body](https://www.cnet.com/news/tiny-living-robots-made-from-frog-cells-could-soon-swim-inside-your-body/)
 <br>
 [[PDF](https://drive.google.com/file/d/156LpJhsQT6vT0c7Xr2s36vNQv_ZGiptR/view)]
+
+## The Next Web
+[Scientists used stem cells to create a new life-form: Organic robots](https://thenextweb.com/artificial-intelligence/2020/01/15/scientists-used-stem-cells-to-create-a-new-life-form-organic-robots/)
+[[PDF](https://drive.google.com/file/d/1APE0bHKecCcekKXEvv36ctwqL5Vc_sSa/view)]
 
 ## The Irish Independent
 [Tiny robot frogs made from living cells 'an entirely new life-form'](https://www.independent.ie/world-news/north-america/tiny-robot-frogs-made-from-living-cells-an-entirely-new-life-form-38859604.html)
@@ -239,16 +253,6 @@ Word of the Week. [Xenobot: how did earth's newest lifeforms get their name?](ht
 [Artificial life: Development of Xenobots, programmable organisms to have far-reaching therapeutic implications](https://www.financialexpress.com/opinion/artificial-life-development-of-xenobots-programmable-organisms-to-have-far-reaching-therapeutic-implications/1824478/)
 <br>
 [[PDF](https://drive.google.com/file/d/1LdGBaMxNUrPJtcr6UGqLwAj1dYoBHrM9/view)]
-
-## The Hill
-[World's first living robots created using frog stem cells](https://thehill.com/changing-america/well-being/medical-advances/478406-worlds-first-living-robots-created-using-frog)
-<br>
-[[PDF](https://drive.google.com/file/d/1xcLYI6tYEZpgXjGmL0pxFkRS4WkgeKxV/view)]
-
-## Cosmos
-[Robots made of living animal cells](https://cosmosmagazine.com/technology/researchers-create-robots-made-of-living-animal-cells/)
-<br>
-[[PDF](https://drive.google.com/file/d/1VEo3ySD2gjs7gnT3hiDGI_9pQ71fWQcU/view)]
 
 ## Communications of the ACM
 [UVM, Tufts Team Builds 'Living' Robots](https://cacm.acm.org/careers/242175-uvm-tufts-team-builds-living-robots/fulltext)
