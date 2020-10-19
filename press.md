@@ -12,7 +12,7 @@ Book Review. [What if, Instead of the Internet, We Had Xenobots?](https://www.ny
 <br>
 [[PDF](https://drive.google.com/file/d/1-zfnp2GtiiKgRwUM1JaAnLr-O3TTIZ2v/view)]
 
-Friday Evening Briefing. [Coronavirus, Masks, Bill Withers: Your Friday Evening Briefing](https://www.nytimes.com/2020/04/03/briefing/coronavirus-masks-bill-withers.html)
+Evening Briefing. [Coronavirus, Masks, Bill Withers: Your Friday Evening Briefing](https://www.nytimes.com/2020/04/03/briefing/coronavirus-masks-bill-withers.html)
 <br>
 [[PDF](https://drive.google.com/file/d/1kBFlHX4KFcfzy98UaDM6_OVuRG8eSq4u/view)]
 
