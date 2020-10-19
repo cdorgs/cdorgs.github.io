@@ -1,7 +1,9 @@
 ## Images
 
 The following images (plus a few more) can be [downloaded here](https://drive.google.com/drive/folders/1m2ZnuFK0BUGeozVG5K4NKPVOKoDVSmAy).
-All images are released under a [Creative Commons license](http://creativecommons.org/licenses/by/4.0/). 
+<br>
+All videos are released under a [Creative Commons license](http://creativecommons.org/licenses/by/4.0/). 
+<br>
 Please credit: "Douglas Blackiston and Sam Kriegman".
 <br><br>
 
