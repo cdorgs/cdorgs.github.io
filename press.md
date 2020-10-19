@@ -88,7 +88,51 @@ Word of the Week. [Xenobot: how did earth's newest lifeforms get their name?](ht
 [Scientists at UVM, Tufts create "living robots"](https://www.bostonglobe.com/2020/01/13/metro/scientists-uvm-tufts-create-living-robots/)
 <br>
 [[PDF](https://drive.google.com/file/d/17t_jtAkOPxczeI0dBEv2Ned6-fJrVJt7/view)]
- 
+
+## New York Post
+[World's first "living robots" are made from the stem cells of frogs](https://nypost.com/video/worlds-first-living-robots-are-made-from-the-stem-cells-of-frogs/)
+
+## Fox News
+[Tiny "xenobots" made from cells could heal our bodies and clean the environment](https://www.foxnews.com/science/tiny-xenobots-cells-heal-bodies-clean-environment)
+<br>
+[[PDF](https://drive.google.com/file/d/1Iwer9tbDiQkIe-K7ljw3MisY7YR3kZ4f/view)]
+
+## CTV News
+[The "xenobot" is the world's newest robot -- and it's made from living animal cells](https://www.ctvnews.ca/sci-tech/the-xenobot-is-the-world-s-newest-robot-and-it-s-made-from-living-animal-cells-1.4765793)
+<br>
+[[PDF](https://drive.google.com/file/d/11FSZHdL0gTHsyVeMTHgBoiHWf2HwwPdi/view)]
+
+## The Times
+[How tiny 'biobots' could enter bodies to clean arteries and administer drugs](https://www.thetimes.co.uk/article/how-tiny-biobots-could-enter-bodies-to-clean-arteries-and-administer-drugs-wrs2l7v3l)
+<br>
+[[PDF](https://drive.google.com/file/d/1kRQptvQR6aW2Sqw8b_SOkvZ0eSTmq70U/view)]
+
+## The Telegraph
+[Living robots created as scientists turn frog cells into 'entirely new life-forms'](https://www.telegraph.co.uk/science/2020/01/13/living-robots-created-scientists-turn-frog-cells-entirely-new/)
+<!---
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/q_Vg7-23PAQ" frameborder="0" allowfullscreen></iframe>
+-->
+
+## The Independent
+[Scientists Create First "Living Robots" in Major Breakthrough](https://www.independent.co.uk/life-style/gadgets-and-tech/news/living-robots-xenobots-living-cells-frog-embryos-a9282251.html)
+<br>
+[[PDF](https://drive.google.com/file/d/1qfVACHPkyReQ_omH_VagUEQ8k-v65tG8/view)]
+
+## Daily Mail
+[The first LIVING robots](https://www.dailymail.co.uk/sciencetech/article-7882293/Tiny-living-robots-FROG-embryos-used-destroy-cancer-cells.html)
+<br>
+[[PDF](https://drive.google.com/file/d/1FIEWk7y-6vkx3NXSeDHvAkmuRznZbplT/view)]
+
+## Evening Standard
+[Scientists create world's first 'living robots' using frog embryos](https://www.standard.co.uk/news/world/scientists-create-worlds-first-living-robots-using-frog-embryos-a4333476.html)
+<br>
+[[PDF](https://drive.google.com/file/d/1rtGRSmTQWO45Nw7cqVbfTZQ5P305URC_/view)]
+
+## Aljazeera
+[The genesis of robotic life and the future of humanity](https://www.aljazeera.com/opinions/2020/2/7/the-genesis-of-robotic-life-and-the-future-of-humanity/)
+<br>
+[[PDF](https://drive.google.com/file/d/14fLEwJuy7cvq4QefD9L9LQOdvCvDqBZf/view)]
+
 ## Nature News & Comment
 [Giant Moon rocket, living robots and quantum computer -- January’s best science images](https://www.nature.com/articles/d41586-020-00245-8)
 <br>
@@ -133,39 +177,6 @@ Word of the Week. [Xenobot: how did earth's newest lifeforms get their name?](ht
 <br>
 [[PDF](https://drive.google.com/file/d/1wrL1OZXVaTY14d-2aZLg9-u49wh831sX/view)]
 
-## Aljazeera
-[The genesis of robotic life and the future of humanity](https://www.aljazeera.com/opinions/2020/2/7/the-genesis-of-robotic-life-and-the-future-of-humanity/)
-<br>
-[[PDF](https://drive.google.com/file/d/14fLEwJuy7cvq4QefD9L9LQOdvCvDqBZf/view)]
-
-## Fox News
-[Tiny "xenobots" made from cells could heal our bodies and clean the environment](https://www.foxnews.com/science/tiny-xenobots-cells-heal-bodies-clean-environment)
-<br>
-[[PDF](https://drive.google.com/file/d/1Iwer9tbDiQkIe-K7ljw3MisY7YR3kZ4f/view)]
-
-## New York Post
-[World's first "living robots" are made from the stem cells of frogs](https://nypost.com/video/worlds-first-living-robots-are-made-from-the-stem-cells-of-frogs/)
-
-## Forbes
-[World’s First "Living Robot" Invites New Opportunities And Risks](https://www.forbes.com/sites/simonchandler/2020/01/14/worlds-first-living-robot-invites-new-opportunities-and-risks)
-<br>
-[[PDF](https://drive.google.com/file/d/16m1BcBgH4pOLz3ihOd00OZFEqWz1ywIp/view)]
-
-## CNET
-[Tiny living robots made from frog cells could soon swim inside your body](https://www.cnet.com/news/tiny-living-robots-made-from-frog-cells-could-soon-swim-inside-your-body/)
-<br>
-[[PDF](https://drive.google.com/file/d/156LpJhsQT6vT0c7Xr2s36vNQv_ZGiptR/view)]
-
-## CTV News
-[The "xenobot" is the world's newest robot -- and it's made from living animal cells](https://www.ctvnews.ca/sci-tech/the-xenobot-is-the-world-s-newest-robot-and-it-s-made-from-living-animal-cells-1.4765793)
-<br>
-[[PDF](https://drive.google.com/file/d/11FSZHdL0gTHsyVeMTHgBoiHWf2HwwPdi/view)]
-
-## The Independent
-[Scientists Create First "Living Robots" in Major Breakthrough](https://www.independent.co.uk/life-style/gadgets-and-tech/news/living-robots-xenobots-living-cells-frog-embryos-a9282251.html)
-<br>
-[[PDF](https://drive.google.com/file/d/1qfVACHPkyReQ_omH_VagUEQ8k-v65tG8/view)]
-
 ## Popular Science
 [These tiny living robots could help science eavesdrop on cellular gossip](https://www.popsci.com/story/science/frog-cell-living-robot/)
 <br>
@@ -194,8 +205,41 @@ Word of the Week. [Xenobot: how did earth's newest lifeforms get their name?](ht
 <br>
 [[PDF](https://drive.google.com/file/d/12BdigSd6Eb5625vUEnL7f2N5Kb2qczUw/view)]
 
+## Bloomberg
+[Frog embryo cells create 'living robots'](https://www.bloomberg.com/news/videos/2020-01-15/frog-embryo-cells-create-living-robots-video)
+
+## Forbes
+[World’s First "Living Robot" Invites New Opportunities And Risks](https://www.forbes.com/sites/simonchandler/2020/01/14/worlds-first-living-robot-invites-new-opportunities-and-risks)
+<br>
+[[PDF](https://drive.google.com/file/d/16m1BcBgH4pOLz3ihOd00OZFEqWz1ywIp/view)]
+
+## CNET
+[Tiny living robots made from frog cells could soon swim inside your body](https://www.cnet.com/news/tiny-living-robots-made-from-frog-cells-could-soon-swim-inside-your-body/)
+<br>
+[[PDF](https://drive.google.com/file/d/156LpJhsQT6vT0c7Xr2s36vNQv_ZGiptR/view)]
+
 ## The Irish Independent
 [Tiny robot frogs made from living cells 'an entirely new life-form'](https://www.independent.ie/world-news/north-america/tiny-robot-frogs-made-from-living-cells-an-entirely-new-life-form-38859604.html)
+
+## The Irish Sun
+[SCIENTISTS are claiming to have made the first "living robots"](https://www.thesun.ie/tech/4987407/scientists-create-first-living-robots-made-from-cells-that-can-be-programmed-like-computers/)
+<br>
+[[PDF](https://drive.google.com/file/d/1bHUAeYtDVqVen8SwmJA6AYkZztpcyMrg/view)]
+
+## Times of India
+[US scientists create world's first-ever 'living robots'](https://timesofindia.indiatimes.com/home/science/meet-xenobots-worlds-first-ever-living-robots/articleshow/73260339.cms)
+<br>
+[[PDF](https://drive.google.com/file/d/1YjJMmzJ2goOQy0Bc-DDWPJrCaPbO5S0N/view)
+
+## Times Now
+[Xenobots: Scientists create world's first self-healing robots using frog stem cells](https://www.timesnownews.com/health/article/xenobots-scientists-create-worlds-first-self-healing-robots-using-frog-stem-cells/542985)
+<br>
+[[PDF](https://drive.google.com/file/d/1xw0OhoSVTVMIHInblaAMGob2U7dGU52I/view)
+
+## The Financial Express
+[Artificial life: Development of Xenobots, programmable organisms to have far-reaching therapeutic implications](https://www.financialexpress.com/opinion/artificial-life-development-of-xenobots-programmable-organisms-to-have-far-reaching-therapeutic-implications/1824478/)
+<br>
+[[PDF](https://drive.google.com/file/d/1LdGBaMxNUrPJtcr6UGqLwAj1dYoBHrM9/view)]
 
 ## The Hill
 [World's first living robots created using frog stem cells](https://thehill.com/changing-america/well-being/medical-advances/478406-worlds-first-living-robots-created-using-frog)
@@ -245,45 +289,6 @@ Word of the Week. [Xenobot: how did earth's newest lifeforms get their name?](ht
 <br>
 [[PDF](https://drive.google.com/file/d/1x1ULD7eTF5xlqeVMhENyWV7ZJEWJ29W5/view)]
 
-## Daily Mail
-[The first LIVING robots](https://www.dailymail.co.uk/sciencetech/article-7882293/Tiny-living-robots-FROG-embryos-used-destroy-cancer-cells.html)
-<br>
-[[PDF](https://drive.google.com/file/d/1FIEWk7y-6vkx3NXSeDHvAkmuRznZbplT/view)]
-
-## Evening Standard
-[Scientists create world's first 'living robots' using frog embryos](https://www.standard.co.uk/news/world/scientists-create-worlds-first-living-robots-using-frog-embryos-a4333476.html)
-<br>
-[[PDF](https://drive.google.com/file/d/1rtGRSmTQWO45Nw7cqVbfTZQ5P305URC_/view)]
-
-## The Irish Sun
-[SCIENTISTS are claiming to have made the first "living robots"](https://www.thesun.ie/tech/4987407/scientists-create-first-living-robots-made-from-cells-that-can-be-programmed-like-computers/)
-<br>
-[[PDF](https://drive.google.com/file/d/1bHUAeYtDVqVen8SwmJA6AYkZztpcyMrg/view)]
-
-## Times of India
-[US scientists create world's first-ever 'living robots'](https://timesofindia.indiatimes.com/home/science/meet-xenobots-worlds-first-ever-living-robots/articleshow/73260339.cms)
-<br>
-[[PDF](https://drive.google.com/file/d/1YjJMmzJ2goOQy0Bc-DDWPJrCaPbO5S0N/view)
-
-## Times Now
-[Xenobots: Scientists create world's first self-healing robots using frog stem cells](https://www.timesnownews.com/health/article/xenobots-scientists-create-worlds-first-self-healing-robots-using-frog-stem-cells/542985)
-<br>
-[[PDF](https://drive.google.com/file/d/1xw0OhoSVTVMIHInblaAMGob2U7dGU52I/view)
-
-## The Financial Express
-[Artificial life: Development of Xenobots, programmable organisms to have far-reaching therapeutic implications](https://www.financialexpress.com/opinion/artificial-life-development-of-xenobots-programmable-organisms-to-have-far-reaching-therapeutic-implications/1824478/)
-<br>
-[[PDF](https://drive.google.com/file/d/1LdGBaMxNUrPJtcr6UGqLwAj1dYoBHrM9/view)]
-
-## The Times
-[How tiny 'biobots' could enter bodies to clean arteries and administer drugs](https://www.thetimes.co.uk/article/how-tiny-biobots-could-enter-bodies-to-clean-arteries-and-administer-drugs-wrs2l7v3l)
-<br>
-[[PDF](https://drive.google.com/file/d/1kRQptvQR6aW2Sqw8b_SOkvZ0eSTmq70U/view)]
-
-## The Telegraph
-[Living robots created as scientists turn frog cells into 'entirely new life-forms'](https://www.telegraph.co.uk/science/2020/01/13/living-robots-created-scientists-turn-frog-cells-entirely-new/)
-
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/q_Vg7-23PAQ" frameborder="0" allowfullscreen></iframe>
 
 ## ESPN
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/AT9Yq-19inA" frameborder="0" allowfullscreen></iframe>
