@@ -230,6 +230,11 @@ Word of the Week. [Xenobot: how did earth's newest lifeforms get their name?](ht
 ## Mashable
 [In true Frankenstein fashion, researchers create living machines from frog embryos](https://mashable.com/video/xenobots-living-robots-frog-embryo/)
 
+## Mic
+[Scientists have created a new type of robot that is literally alive](https://www.mic.com/p/scientists-have-created-a-new-type-of-robot-that-is-literally-alive-22758584)
+<br>
+[[PDF](https://drive.google.com/file/d/10pLWW-ciXOnL4sSaeHKynXEYDaov0LWP/view)]
+
 ## Big Think
 [Researchers build living robots from frog cells](https://bigthink.com/surprising-science/living-robots)
 <br>
@@ -387,11 +392,15 @@ Word of the Week. [Xenobot: how did earth's newest lifeforms get their name?](ht
 ## Gazeta Wyborcza (Poland)
 [Naukowcy z USA zbudowali pierwsze roboty z żywych komórek. Swoje "żywe" maszyny nazwali xenobotami](https://wyborcza.pl/7,75400,25595466,naukowcy-z-usa-zbudowali-pierwsze-roboty-z-zywych-komorek-swoje.html)
 
+## National Geographic España
+[Construyen los primeros robots vivientes](https://www.nationalgeographic.com.es/ciencia/construyen-primeros-robots-vivientes_15105)
+<br>
+[[PDF](https://drive.google.com/file/d/1SyK39sAFySsgCOi7ZgTPDbiuUzc4U0qZ/view)]
+
 ## El Mundo (Spain)
 [Construyen a partir de células de rana los primeros robots vivos](https://www.elmundo.es/ciencia-y-salud/ciencia/2020/01/13/5e1ca7a5fc6c8394698b4591.html)
 
 ## El País (Spain)
-
 [Creadas por primera vez “máquinas vivientes” con células animales](https://elpais.com/elpais/2020/01/13/ciencia/1578934364_490067.html)
 <br>
 [[PDF](https://drive.google.com/file/d/1FJPJ8MXFZSjboO8r-H3QQ9LTVBh0SaKe/view)]
