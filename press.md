@@ -1,6 +1,12 @@
 ## Press
 
 
+## The Design Museum
+
+Beazley Designs of the Year.
+[Xenobot](https://designmuseum.org/exhibitions/beazley-designs-of-the-year/digital/xenobot)
+
+
 ## The New York Times
 [Meet the Xenobots, Virtual Creatures Brought to Life](https://www.nytimes.com/2020/04/03/science/xenobots-robots-frogs-xenopus.html)
 <br>
@@ -325,6 +331,9 @@ Economist Radio: The Intelligence. [Tiny bots blur the line between biological a
 [全球首个用青蛙细胞制造“活体机器人”诞生，遭破坏时可自愈！药物递送领域大有可为](http://www.mittrchina.com/news/4660)
 <br>
 [[PDF](https://drive.google.com/file/d/11SnlF7qnnUPn073R5x-y96gXYjMR4Hh-/view)]
+
+## Illustreret Videnskab (Denmark)	 	
+[NY LIVSFORM KRAVLER UD AF SKÆRMEN (PDF)](https://drive.google.com/file/d/1tuQKjSwZCXqo3LN6hfT9K0S4dyTokM8c/view)
 
 ## Diario El Universo (Ecuador)
 [Creados los "xenobots", organismos descritos como "robots vivos"](https://www.eluniverso.com/larevista/2020/01/13/nota/7689411/creados-xenobots-organismos-descritos-como-robots-vivos)
