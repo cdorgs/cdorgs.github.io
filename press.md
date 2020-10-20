@@ -1,12 +1,6 @@
 ## Press
 
 
-## The Design Museum
-
-Beazley Designs of the Year.
-[Xenobot](https://designmuseum.org/exhibitions/beazley-designs-of-the-year/digital/xenobot)
-
-
 ## The New York Times
 [Meet the Xenobots, Virtual Creatures Brought to Life](https://www.nytimes.com/2020/04/03/science/xenobots-robots-frogs-xenopus.html)
 <br>
@@ -91,6 +85,11 @@ Economist Radio: The Intelligence. [Tiny bots blur the line between biological a
 
 ## Wikipedia 
 [Xenobot](https://en.wikipedia.org/wiki/Xenobot)
+
+
+## The Design Museum
+Beazley Designs of the Year.
+[Xenobot](https://designmuseum.org/exhibitions/beazley-designs-of-the-year/digital/xenobot)
 
 ## The Boston Globe
 [Scientists at UVM, Tufts create "living robots"](https://www.bostonglobe.com/2020/01/13/metro/scientists-uvm-tufts-create-living-robots/)
