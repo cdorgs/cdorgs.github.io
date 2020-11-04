@@ -86,11 +86,6 @@ Economist Radio: The Intelligence. [Tiny bots blur the line between biological a
 ## Wikipedia 
 [Xenobot](https://en.wikipedia.org/wiki/Xenobot)
 
-
-## The Design Museum
-Beazley Designs of the Year.
-[Xenobot](https://designmuseum.org/exhibitions/beazley-designs-of-the-year/digital/xenobot)
-
 ## The Boston Globe
 [Scientists at UVM, Tufts create "living robots"](https://www.bostonglobe.com/2020/01/13/metro/scientists-uvm-tufts-create-living-robots/)
 <br>
@@ -139,6 +134,10 @@ Beazley Designs of the Year.
 <br>
 [[PDF](https://drive.google.com/file/d/14fLEwJuy7cvq4QefD9L9LQOdvCvDqBZf/view)]
 
+## The Design Museum
+Beazley Designs of the Year.
+[Xenobot](https://designmuseum.org/exhibitions/beazley-designs-of-the-year/digital/xenobot)
+
 ## Nature News & Comment
 [Giant Moon rocket, living robots and quantum computer -- January’s best science images](https://www.nature.com/articles/d41586-020-00245-8)
 <br>
@@ -149,15 +148,18 @@ Beazley Designs of the Year.
 <br>
 [[PDF](https://drive.google.com/file/d/18W-v_7uI2U8P-yv_QpoO6ShJUiO2juyU/view)]
 
-## Smithsonian Magazine
-[Scientists Assemble Frog Stem Cells Into First "Living Machines"](https://www.smithsonianmag.com/innovation/scientists-assemble-frog-stem-cells-first-living-machines-180973947/)
-<br>
-[[PDF](https://drive.google.com/file/d/1dGr6aLLjLoz8giUNJ3MB8fxVYlv9pq5j/view)]
-
 ## Wired
 [Meet Xenobot, an Eerie New Kind of Programmable Organism](https://www.wired.com/story/xenobot/)
 <br>
 [[PDF](https://drive.google.com/file/d/1e6DAbOFmftYhztqH_utz0Tc_E9XfcvRY/view)]
+
+[The Xenobot Future Is Coming—Start Planning Now](https://www.wired.com/story/synthetic-biology-plan/)
+[[PDF](https://drive.google.com/file/d/1QAX6JeKiPNSlqan_wQDW6dg9Z3SDKxGV/view)]
+
+## Smithsonian Magazine
+[Scientists Assemble Frog Stem Cells Into First "Living Machines"](https://www.smithsonianmag.com/innovation/scientists-assemble-frog-stem-cells-first-living-machines-180973947/)
+<br>
+[[PDF](https://drive.google.com/file/d/1dGr6aLLjLoz8giUNJ3MB8fxVYlv9pq5j/view)]
 
 ## The Week
 [Robots made from frog cells (PDF)](https://drive.google.com/file/d/17LFovedlKpMz8giNMVXp5segIAIanirz/view)
