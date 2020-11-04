@@ -154,6 +154,7 @@ Beazley Designs of the Year.
 [[PDF](https://drive.google.com/file/d/1e6DAbOFmftYhztqH_utz0Tc_E9XfcvRY/view)]
 
 [The Xenobot Future Is Coming—Start Planning Now](https://www.wired.com/story/synthetic-biology-plan/)
+<br>
 [[PDF](https://drive.google.com/file/d/1QAX6JeKiPNSlqan_wQDW6dg9Z3SDKxGV/view)]
 
 ## Smithsonian Magazine
