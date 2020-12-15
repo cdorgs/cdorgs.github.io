@@ -157,15 +157,15 @@ Beazley Designs of the Year.
 <br>
 [[PDF](https://drive.google.com/file/d/1QAX6JeKiPNSlqan_wQDW6dg9Z3SDKxGV/view)]
 
-## Smithsonian Magazine
-[Scientists Assemble Frog Stem Cells Into First "Living Machines"](https://www.smithsonianmag.com/innovation/scientists-assemble-frog-stem-cells-first-living-machines-180973947/)
-<br>
-[[PDF](https://drive.google.com/file/d/1dGr6aLLjLoz8giUNJ3MB8fxVYlv9pq5j/view)]
-
 ## Discover Magazine
 [Part Robot, Part Frog: Xenobots Are the First Robots Made From Living Cells](https://www.discovermagazine.com/technology/part-robot-part-frog-xenobots-are-the-first-robots-made-from-living-cells)
 <br>
 [[PDF](https://drive.google.com/file/d/1uW-vpOFK5x7qCgdO7VS2SrK2uCdtInIE/view)]
+
+## Smithsonian Magazine
+[Scientists Assemble Frog Stem Cells Into First "Living Machines"](https://www.smithsonianmag.com/innovation/scientists-assemble-frog-stem-cells-first-living-machines-180973947/)
+<br>
+[[PDF](https://drive.google.com/file/d/1dGr6aLLjLoz8giUNJ3MB8fxVYlv9pq5j/view)]
 
 ## The Week
 [Robots made from frog cells (PDF)](https://drive.google.com/file/d/17LFovedlKpMz8giNMVXp5segIAIanirz/view)
