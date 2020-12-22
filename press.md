@@ -210,6 +210,10 @@ Beazley Designs of the Year.
 <br>
 [[PDF](https://drive.google.com/file/d/1wtIqGpxmstW3MUIcHhIeAsRM36L835hh/view)]
 
+[2020 in Pictures](https://www.the-scientist.com/news-opinion/2020-in-pictures-68298)
+<br>
+[[PDF](https://drive.google.com/file/d/18dnpOvb2G8Y-8tr8BhXzZiT57pEfBTtL/view)]
+
 ## The Biologist
 [The first organism whose evolutionary history was in a computer (with Michael Levin)](https://thebiologist.rsb.org.uk/biologist/158-biologist/features/2296-professor-michael-levin-interview)
 <br>
