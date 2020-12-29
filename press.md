@@ -154,7 +154,7 @@ Beazley Designs of the Year.
 
 ## The Week
 [Robots made from frog cells (PDF)](https://drive.google.com/file/d/17LFovedlKpMz8giNMVXp5segIAIanirz/view)
-<br>
+
 [The big scientific breakthroughs of 2020](https://theweek.com/articles/957485/big-scientific-breakthroughs-2020)
 <br>
 [[PDF](https://drive.google.com/file/d/1edN1_mTGuf0VaNsiP8tnku6FI4yXFLZv/view)]
