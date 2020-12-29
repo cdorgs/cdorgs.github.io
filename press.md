@@ -138,25 +138,6 @@ Economist Radio: The Intelligence. [Tiny bots blur the line between biological a
 Beazley Designs of the Year.
 [Xenobot](https://designmuseum.org/exhibitions/beazley-designs-of-the-year/digital/xenobot)
 
-## Nature News & Comment
-[Giant Moon rocket, living robots and quantum computer -- January’s best science images](https://www.nature.com/articles/d41586-020-00245-8)
-<br>
-[[PDF](https://drive.google.com/file/d/1VJ5knhDYVvxHSk4oEFEiyaWtsombwvWc/view)]
-
-## Nature Materials
-[Living Robots](https://www.nature.com/articles/s41563-020-0627-6)
-<br>
-[[PDF](https://drive.google.com/file/d/18W-v_7uI2U8P-yv_QpoO6ShJUiO2juyU/view)]
-
-## Wired
-[Meet Xenobot, an Eerie New Kind of Programmable Organism](https://www.wired.com/story/xenobot/)
-<br>
-[[PDF](https://drive.google.com/file/d/1e6DAbOFmftYhztqH_utz0Tc_E9XfcvRY/view)]
-
-[The Xenobot Future Is Coming—Start Planning Now](https://www.wired.com/story/synthetic-biology-plan/)
-<br>
-[[PDF](https://drive.google.com/file/d/1QAX6JeKiPNSlqan_wQDW6dg9Z3SDKxGV/view)]
-
 ## Discover Magazine
 [Part Robot, Part Frog: Xenobots Are the First Robots Made From Living Cells](https://www.discovermagazine.com/technology/part-robot-part-frog-xenobots-are-the-first-robots-made-from-living-cells)
 <br>
@@ -173,12 +154,25 @@ Beazley Designs of the Year.
 
 ## The Week
 [Robots made from frog cells (PDF)](https://drive.google.com/file/d/17LFovedlKpMz8giNMVXp5segIAIanirz/view)
+<br>
+[The big scientific breakthroughs of 2020](https://theweek.com/articles/957485/big-scientific-breakthroughs-2020)
+<br>
+[[PDF](https://drive.google.com/file/d/1edN1_mTGuf0VaNsiP8tnku6FI4yXFLZv/view)]
 
 ## BBC Science Focus
 [Living Robots Built From Stem Cells (PDF)](https://drive.google.com/file/d/1yYJSfGS_FkXxTzAAp5N1ismo3WioCohM/view)
 
 ## Science Illustrated
 [Scientists build machines based on living cells (PDF)](https://drive.google.com/file/d/1y7U89WWThWrLpSDYT9QJlD9FKAvVs0vF/view)
+
+## Wired
+[Meet Xenobot, an Eerie New Kind of Programmable Organism](https://www.wired.com/story/xenobot/)
+<br>
+[[PDF](https://drive.google.com/file/d/1e6DAbOFmftYhztqH_utz0Tc_E9XfcvRY/view)]
+
+[The Xenobot Future Is Coming—Start Planning Now](https://www.wired.com/story/synthetic-biology-plan/)
+<br>
+[[PDF](https://drive.google.com/file/d/1QAX6JeKiPNSlqan_wQDW6dg9Z3SDKxGV/view)]
 
 ## MIT Technology Review
 [These "xenobots" are living machines designed by an evolutionary algorithm](https://www.technologyreview.com/2020/01/14/238128/these-xenobots-are-living-machines-designed-by-an-evolutionary-algorithm/)
@@ -194,6 +188,16 @@ Beazley Designs of the Year.
 [Behold the xenobots -- part frog, part robot. But are they alive?](https://www.csmonitor.com/Science/2020/0131/Behold-the-xenobots-part-frog-part-robot.-But-are-they-alive)
 <br>
 [[PDF](https://drive.google.com/file/d/1wrL1OZXVaTY14d-2aZLg9-u49wh831sX/view)]
+
+## Nature News & Comment
+[Giant Moon rocket, living robots and quantum computer -- January’s best science images](https://www.nature.com/articles/d41586-020-00245-8)
+<br>
+[[PDF](https://drive.google.com/file/d/1VJ5knhDYVvxHSk4oEFEiyaWtsombwvWc/view)]
+
+## Nature Materials
+[Living Robots](https://www.nature.com/articles/s41563-020-0627-6)
+<br>
+[[PDF](https://drive.google.com/file/d/18W-v_7uI2U8P-yv_QpoO6ShJUiO2juyU/view)]
 
 ## Popular Science
 [These tiny living robots could help science eavesdrop on cellular gossip](https://www.popsci.com/story/science/frog-cell-living-robot/)
