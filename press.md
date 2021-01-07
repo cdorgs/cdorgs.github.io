@@ -459,6 +459,17 @@ Beazley Designs of the Year.
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/_nAR7PqfXBw" frameborder="0" allowfullscreen></iframe>
 
+
+## La Razón (Spain)
+[Lo primeros robots biológicos ni son seres vivos ni curan enfermedades: la fiebre del Biobot](https://www.larazon.es/ciencia/20200129/vae3tmohr5cprmy6ibcsmghrwu.html)
+<br>
+[[PDF](https://drive.google.com/file/d/1s6Jie1ce490VXXP-akdHPDPP86J4s8tl/view)]
+
+[Los 10 avances científicos más espectaculares de 2020](https://www.larazon.es/ciencia/20201227/djoc3hcb5bfkvomop2hwmichta.html)
+<br>
+[[PDF](https://drive.google.com/file/d/188x_xUxnvU5oAgYUWGAqv6tKTDnJMqBw/view)]
+
+
 ## Tanes-Anzeiger (Switzerland)
 [Hier kommt Xenobot, derlebende Roboter](https://www.tagesanzeiger.ch/wissen/die-lebenden-roboter-kommen/story/10547425)
 <br>
