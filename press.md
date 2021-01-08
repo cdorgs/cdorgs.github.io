@@ -309,6 +309,11 @@ Beazley Designs of the Year.
 <br>
 [[PDF](https://drive.google.com/file/d/10pLWW-ciXOnL4sSaeHKynXEYDaov0LWP/view)]
 
+## How It Works
+[Future Tech: How to make living machines](https://www.howitworksdaily.com/future-tech-how-to-make-living-machines/)
+<br>
+[[PDF](https://drive.google.com/file/d/1Rf_Iqx-lLhxdQW6sZCvejO8pqDC9N8dE/view)]
+
 ## Big Think
 [Researchers build living robots from frog cells](https://bigthink.com/surprising-science/living-robots)
 <br>
