@@ -189,6 +189,23 @@ Beazley Designs of the Year.
 <br>
 [[PDF](https://drive.google.com/file/d/1wrL1OZXVaTY14d-2aZLg9-u49wh831sX/view)]
 
+## Bloomberg
+[Frog embryo cells create 'living robots'](https://www.bloomberg.com/news/videos/2020-01-15/frog-embryo-cells-create-living-robots-video)
+
+## Forbes
+[World’s First "Living Robot" Invites New Opportunities And Risks](https://www.forbes.com/sites/simonchandler/2020/01/14/worlds-first-living-robot-invites-new-opportunities-and-risks)
+<br>
+[[PDF](https://drive.google.com/file/d/16m1BcBgH4pOLz3ihOd00OZFEqWz1ywIp/view)]
+
+[Nominated For A Prestigious Design Award, This Living Organism Is Poised To Redesign Life Itself](https://www.forbes.com/sites/jonathonkeats/2021/01/15/nominated-for-a-prestigious-design-award-this-living-organism-is-poised-to-redesign-life-itself)
+<br>
+[[PDF](https://drive.google.com/file/d/1D_kyK4hqDme_j7hr1DPP_XrTJ8OnKT4A/view)]
+
+## CNET
+[Tiny living robots made from frog cells could soon swim inside your body](https://www.cnet.com/news/tiny-living-robots-made-from-frog-cells-could-soon-swim-inside-your-body/)
+<br>
+[[PDF](https://drive.google.com/file/d/156LpJhsQT6vT0c7Xr2s36vNQv_ZGiptR/view)]
+
 ## Nature News & Comment
 [Giant Moon rocket, living robots and quantum computer -- January’s best science images](https://www.nature.com/articles/d41586-020-00245-8)
 <br>
@@ -240,23 +257,6 @@ Beazley Designs of the Year.
 [World's first living robots created using frog stem cells](https://thehill.com/changing-america/well-being/medical-advances/478406-worlds-first-living-robots-created-using-frog)
 <br>
 [[PDF](https://drive.google.com/file/d/1xcLYI6tYEZpgXjGmL0pxFkRS4WkgeKxV/view)]
-
-## Bloomberg
-[Frog embryo cells create 'living robots'](https://www.bloomberg.com/news/videos/2020-01-15/frog-embryo-cells-create-living-robots-video)
-
-## Forbes
-[World’s First "Living Robot" Invites New Opportunities And Risks](https://www.forbes.com/sites/simonchandler/2020/01/14/worlds-first-living-robot-invites-new-opportunities-and-risks)
-<br>
-[[PDF](https://drive.google.com/file/d/16m1BcBgH4pOLz3ihOd00OZFEqWz1ywIp/view)]
-
-[Nominated For A Prestigious Design Award, This Living Organism Is Poised To Redesign Life Itself](https://www.forbes.com/sites/jonathonkeats/2021/01/15/nominated-for-a-prestigious-design-award-this-living-organism-is-poised-to-redesign-life-itself)
-<br>
-[[PDF](https://drive.google.com/file/d/1D_kyK4hqDme_j7hr1DPP_XrTJ8OnKT4A/view)]
-
-## CNET
-[Tiny living robots made from frog cells could soon swim inside your body](https://www.cnet.com/news/tiny-living-robots-made-from-frog-cells-could-soon-swim-inside-your-body/)
-<br>
-[[PDF](https://drive.google.com/file/d/156LpJhsQT6vT0c7Xr2s36vNQv_ZGiptR/view)]
 
 ## The Next Web
 [Scientists used stem cells to create a new life-form: Organic robots](https://thenextweb.com/artificial-intelligence/2020/01/15/scientists-used-stem-cells-to-create-a-new-life-form-organic-robots/)
