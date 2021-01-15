@@ -249,6 +249,10 @@ Beazley Designs of the Year.
 <br>
 [[PDF](https://drive.google.com/file/d/16m1BcBgH4pOLz3ihOd00OZFEqWz1ywIp/view)]
 
+[Nominated For A Prestigious Design Award, This Living Organism Is Poised To Redesign Life Itself](https://www.forbes.com/sites/jonathonkeats/2021/01/15/nominated-for-a-prestigious-design-award-this-living-organism-is-poised-to-redesign-life-itself)
+<br>
+[[PDF](https://drive.google.com/file/d/1D_kyK4hqDme_j7hr1DPP_XrTJ8OnKT4A/view)]
+
 ## CNET
 [Tiny living robots made from frog cells could soon swim inside your body](https://www.cnet.com/news/tiny-living-robots-made-from-frog-cells-could-soon-swim-inside-your-body/)
 <br>
