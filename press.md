@@ -240,6 +240,11 @@ Beazley Designs of the Year.
 <br>
 [[PDF of cover](https://drive.google.com/file/d/1-EH31Iyozuus3yExgcYuUDWwhqLlLjTt/view)]
 
+## Biotecnika
+[Breakthrough Scientific Discoveries Of 2020: Top 10 List](https://www.biotecnika.org/2021/01/top-10-scientific-breakthroughs-in-2020-read-more-at-biotecnika/)
+<br>
+[[PDF](https://drive.google.com/file/d/14veBTAde90_flr4IX2Y2ddInu1bHVem2/view)]
+
 ## The Science Times
 [Meet Xenobots: World's First Living and Self-Healing Robots Using Stem Cells From Frog Embryos](https://www.sciencetimes.com/articles/25201/20200403/xenobots-worlds-first-living-self-healing-robots-using-stem-cells.htm)
 
