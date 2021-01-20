@@ -266,7 +266,7 @@ Beazley Designs of the Year.
 ## Air & Space
 [Artificial Intelligence: Cure for What Ails Us, or Looming Threat to the World?](https://www.airspacemag.com/daily-planet/artificial-intelligence-cure-what-ails-us-or-looming-threat-world-180976780/)
 <br>
-[[PDF](https://www.airspacemag.com/daily-planet/artificial-intelligence-cure-what-ails-us-or-looming-threat-world-180976780/))
+[[PDF](https://drive.google.com/file/d/1yANQehiPiWKAXUM4DiV_O5ANm63itGfA/view))
 
 ## The Next Web
 [Scientists used stem cells to create a new life-form: Organic robots](https://thenextweb.com/artificial-intelligence/2020/01/15/scientists-used-stem-cells-to-create-a-new-life-form-organic-robots/)
