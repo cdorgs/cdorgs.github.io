@@ -219,6 +219,13 @@ Beazley Designs of the Year.
 <br>
 [[PDF](https://drive.google.com/file/d/18W-v_7uI2U8P-yv_QpoO6ShJUiO2juyU/view)]
 
+## Royal Society
+[Animate materials](https://royalsociety.org/topics-policy/projects/animate-materials/)
+<br>
+[[PDF](https://drive.google.com/file/d/1WL3HJFGKkhhinLQjjdVVaeZMUbJwmI6w/view)]
+<br>
+[[PDF of report](https://drive.google.com/file/d/10ok0tNsANCgUaJk6W9C0JnbkRs9b6udd/view)]
+
 ## Popular Science
 [These tiny living robots could help science eavesdrop on cellular gossip](https://www.popsci.com/story/science/frog-cell-living-robot/)
 <br>
