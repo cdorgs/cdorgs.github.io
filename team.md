@@ -17,7 +17,7 @@ and co-manages the open-source soft robot kit [voxcraft](https://voxcraft.github
 
 <img src="https://cdorgs.github.io/img/doug.jpg" width="25%">
 
-**Douglas Blackiston** is a Research Scientist in the Allen Discovery Center at Tufts University where his research program has overarching goal of understanding brain-body plasticity --- the response of cell populations in vivo to alterations in patterning, local environment, and signaling from neighboring tissues.  His work encompasses many diverse questions and models, from the ability of memory to survive metamorphosis in moths and butterflies, to the capacity of transplanted eyes to restore vision in blind vertebrates.
+**Douglas Blackiston** is a Research Scientist in the Allen Discovery Center at Tufts University where his research program has the overarching goal of understanding brain-body plasticity --- the response of cell populations in vivo to alterations in patterning, local environment, and signaling from neighboring tissues.  His work encompasses many diverse questions and models, from the ability of memory to survive metamorphosis in moths and butterflies, to the capacity of transplanted eyes to restore vision in blind vertebrates.
 <br><br><br>
 
 <img src="https://cdorgs.github.io/img/mike.jpg" width="40%">
