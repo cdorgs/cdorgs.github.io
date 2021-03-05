@@ -1,6 +1,6 @@
 ## Code
 
-### Reproduce our work.
+### **Reproduce our work.**
 
 The source code necessary for re-evolving the CDO blueprints reported in our paper can be found at:
 [github.com/skriegman/reconfigurable_organisms](https://github.com/skriegman/reconfigurable_organisms)
@@ -10,12 +10,12 @@ The instructions for actually building an organism from a CDO blueprint are also
 The source code and build instructions are distributed under an *Attribution-NonCommercial* [Creative Commons license](https://creativecommons.org/licenses/by-nc/4.0/).
 
 
-### Start here:
+### **Start here:**
 
 We recommend starting with this [Science Buddies](https://www.sciencebuddies.org/science-fair-projects/project-ideas/robotics_p016/robotics/squishy-robot-simulator#procedure) tutorial for VoxCAD.
 
 
-### A new CDO simulator.
+### **A new CDO simulator.**
 
 We recently developed new software to simulate xenobots which is much more powerful. 
 <br>
