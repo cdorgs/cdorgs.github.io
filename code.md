@@ -13,8 +13,8 @@ The source code and build instructions are distributed under an *Attribution-Non
 ### **Start here:**
 
 We recommend starting with this [Science Buddies](https://www.sciencebuddies.org/science-fair-projects/project-ideas/robotics_p016/robotics/squishy-robot-simulator#procedure) tutorial for VoxCAD.
-The tutorial assumes Windows OS.
-If you do not have Windows, you can download the GUI for [Mac](https://cdorgs.github.io/code#mac) and [Linux](https://cdorgs.github.io/code#linux).
+The first step links to a Windows installation of VoxCAD.
+If you do not have Windows, you can instead download a GUI for [Mac](https://cdorgs.github.io/code#mac) and [Linux](https://cdorgs.github.io/code#linux), and then continue with step 2 of the procedure.
 
 
 ### **A new CDO simulator.**
