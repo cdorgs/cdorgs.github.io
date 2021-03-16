@@ -77,7 +77,7 @@ brew install cmake
 brew install boost
 brew install qt5
 brew install glfw3
-brew cask install xquartz
+brew install xquartz
 brew install freeglut
 brew install mesa
 ```
