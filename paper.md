@@ -8,9 +8,8 @@ _Proceedings of the National Academy of Sciences (PNAS)_, vol. 117 no. 4, pp. 18
 <!-- <div data-badge-popover="right" class='altmetric-embed' data-badge-type='donut' data-doi="10.1073/pnas.1910837117"></div> -->
 <div data-badge-details="right" data-badge-type="medium-donut" data-doi="10.1073/pnas.1910837117" class="altmetric-embed"></div>
 
-<br>
 
-## Honors
+### **Honors**
 
 - **Winner of the National Academy of Sciences' [Cozzarelli Prize](https://www.pnas.org/page/about/cozzarelli-prize) in Engineering and Applied Sciences.**
 
@@ -19,12 +18,9 @@ _Proceedings of the National Academy of Sciences (PNAS)_, vol. 117 no. 4, pp. 18
 - Featured in the [Altmetric Top 100](https://www.altmetric.com/top100/2020/).
 
 - One of the Project Management Institute's [Top 10 Most Influential BioTech Projects](https://www.pmi.org/most-influential-projects/top-10-by-industry/biotech).
-                 
-
-<br>
 
 
-## Bibtex
+### **Bibtex**
 <pre>
 @article{kriegman2020xenobots,
 &nbsp;&nbsp; author={Kriegman, Sam and Blackiston, Douglas and Levin, Michael and Bongard, Josh},
