@@ -83,9 +83,6 @@ Economist Radio: The Intelligence. [Tiny bots blur the line between biological a
 ## The Bugle
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/749561029&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/skriegman" title="Computer-designed organisms" target="_blank" style="color: #cccccc; text-decoration: none;">Computer-designed organisms</a> · <a href="https://soundcloud.com/skriegman/the-bugle-ep-4137-xenobots" title="The Bugle Ep. 4137: Xenobots" target="_blank" style="color: #cccccc; text-decoration: none;">The Bugle Ep. 4137: Xenobots</a></div>
 
-## Altmetric Top 100
-[Altmetric Top 100](https://www.altmetric.com/top100/2020/)
-
 ## Wikipedia 
 [Xenobot](https://en.wikipedia.org/wiki/Xenobot)
 
@@ -136,10 +133,6 @@ Economist Radio: The Intelligence. [Tiny bots blur the line between biological a
 [The genesis of robotic life and the future of humanity](https://www.aljazeera.com/opinions/2020/2/7/the-genesis-of-robotic-life-and-the-future-of-humanity/)
 <br>
 [[PDF](https://drive.google.com/file/d/14fLEwJuy7cvq4QefD9L9LQOdvCvDqBZf/view)]
-
-## The Design Museum
-Beazley Designs of the Year.
-[Xenobot](https://designmuseum.org/exhibitions/beazley-designs-of-the-year/digital/xenobot)
 
 ## Discover Magazine
 [Part Robot, Part Frog: Xenobots Are the First Robots Made From Living Cells](https://www.discovermagazine.com/technology/part-robot-part-frog-xenobots-are-the-first-robots-made-from-living-cells)
@@ -348,6 +341,20 @@ Beazley Designs of the Year.
 <br>
 [[PDF](https://drive.google.com/file/d/1x1ULD7eTF5xlqeVMhENyWV7ZJEWJ29W5/view)]
 
+<!-- ## Project Management Institute
+[Top 10 Most Influential Projects by Industry](https://www.pmi.org/most-influential-projects/top-10-by-industry/biotech)
+<br>
+[[PDF](https://drive.google.com/file/d/1sD_mXBRVb1NgcscCJwqnCT9PM0OTLiaQ/view)]
+## The National Academy of Sciences
+[The Cozzarelli Prize](https://www.pnas.org/page/about/cozzarelli-prize)
+<br>
+[[PDF](https://drive.google.com/file/d/1aBpU6EelSdd17W3ep4N8lu7oMnYA7Ylg/view)
+## Altmetric Top 100
+[Altmetric Top 100](https://www.altmetric.com/top100/2020/)
+## The Design Museum
+Beazley Designs of the Year.
+[Xenobot](https://designmuseum.org/exhibitions/beazley-designs-of-the-year/digital/xenobot)
+-->
 
 ## ESPN
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/AT9Yq-19inA" frameborder="0" allowfullscreen></iframe>
