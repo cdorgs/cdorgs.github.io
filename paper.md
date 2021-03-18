@@ -17,6 +17,8 @@ _Proceedings of the National Academy of Sciences (PNAS)_, vol. 117 no. 4, pp. 18
 
 - Featured in the [Altmetric Top 100](https://www.altmetric.com/top100/2020/).
 
+- Listed as one of four achievements in The Week's [The big scientific breakthroughs of 2020](https://theweek.com/articles/957485/big-scientific-breakthroughs-2020) alongside the COVID-19 vaccine, the protein folding problem solved by AI, and signs of life on Venus.
+
 - One of the Project Management Institute's [Top 10 Most Influential BioTech Projects](https://www.pmi.org/most-influential-projects/top-10-by-industry/biotech).
 
 
