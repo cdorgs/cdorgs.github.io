@@ -9,9 +9,9 @@ This involves the
 dynamical simulation of soft body systems,
 simulation-to-reality transfer of physical artifacts,
 and designing the form of functional systems that have limited neural control or none at all.
-Sam co-organizes the [Virtual Creatures Competition](https://virtualcreatures.github.io/), 
-has co-authored 18 peer-reviewed [publications](https://scholar.google.com/citations?user=DCIwaLwAAAAJ), 
-and co-manages the open-source soft robot kit [voxcraft](https://voxcraft.github.io/).
+Sam co-organizes the [Virtual Creatures Competition](https://virtualcreatures.github.io/),
+co-manages the open-source soft robot kit [voxcraft](https://voxcraft.github.io/),
+and has co-authored numerous peer-reviewed [publications](https://scholar.google.com/citations?user=DCIwaLwAAAAJ).
 <br><br><br>
 
 
