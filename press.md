@@ -506,7 +506,7 @@ Beazley Designs of the Year.
 [[PDF](https://drive.google.com/file/d/188x_xUxnvU5oAgYUWGAqv6tKTDnJMqBw/view)]
 
 
-## Tanes-Anzeiger (Switzerland)
+## Tages-Anzeiger (Switzerland)
 [Hier kommt Xenobot, derlebende Roboter](https://www.tagesanzeiger.ch/wissen/die-lebenden-roboter-kommen/story/10547425)
 <br>
 [[PDF](https://drive.google.com/file/d/1X3kAmi1g9CQpDIFv42H6JteyHNNqzA7q/view)]
