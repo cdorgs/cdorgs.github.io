@@ -1,6 +1,5 @@
 ## Team
 
-
 <img src="https://cdorgs.github.io/img/sam.jpg" width="25%">
 
 **Sam Kriegman** is a Postdoctoral Associate at the University of Vermont. 
@@ -28,4 +27,10 @@ and has co-authored numerous peer-reviewed [publications](https://scholar.google
 <img src="https://cdorgs.github.io/img/josh.jpg" width="25%">
 
 **Josh Bongard** is the Veinott Professor of Computer Science at the University of Vermont and the director of the [Morphology, Evolution & Cognition Laboratory](https://www.meclab.org/). His work involves computational approaches to the automated design and manufacture of soft-, evolved-, and crowdsourced robots, as well as living systems. A PECASE, TR35, and Microsoft New Faculty Fellow award recipient, he has received funding from NSF, NASA, DARPA, the U.S. Army Research Office and the Sloan Foundation. He has authored 34 and 76 peer-reviewed journal and conference publications respectively, and is the author of the book How The Body Shapes the Way We Think. He runs an evolutionary robotics MOOC through [reddit.com](https://www.reddit.com/r/ludobots/wiki/index#welcome) and a robotics outreach program, Twitch Plays Robotics.
+
+
+<br><br>
+
+<img src="https://cdorgs.github.io/img/TheDreamTeam.jpg">
+
 
