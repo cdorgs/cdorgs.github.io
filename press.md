@@ -43,6 +43,9 @@ Word of the Week. [Xenobot: how did earth's newest lifeforms get their name?](ht
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/FDtKmavEQsc" frameborder="0" allowfullscreen></iframe>
 
 
+## Bloomberg Quicktake
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/akchZ4eG9z8" frameborder="0" allowfullscreen></iframe>
+
 
 ## The Economist
 
@@ -380,8 +383,8 @@ Beazley Designs of the Year.
 ## Seeker
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/wL64jqYn4CE" frameborder="0" allowfullscreen></iframe>
 
-## Bloomberg Quicktake
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/akchZ4eG9z8" frameborder="0" allowfullscreen></iframe>
+<!-- ## Bloomberg Quicktake
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/akchZ4eG9z8" frameborder="0" allowfullscreen></iframe> -->
 
 ## Cold Fusion
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/MJ8NorRU_6c" frameborder="0" allowfullscreen></iframe>
