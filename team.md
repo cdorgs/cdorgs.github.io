@@ -30,5 +30,5 @@ and has co-authored numerous peer-reviewed [publications](https://scholar.google
 <br><br><br>
 
 <img src="https://cdorgs.github.io/img/TheDreamTeam.jpg">
-From right to left: Josh Bongard, Michael Levin, Douglas Blackiston, Sam Kriegman.
+From left to right: Josh Bongard, Michael Levin, Douglas Blackiston, Sam Kriegman.
 
