@@ -2,7 +2,9 @@
 
 <img src="https://cdorgs.github.io/img/sam.jpg" width="25%">
 
-**Sam Kriegman** is a Postdoctoral Associate at the University of Vermont. 
+**Sam Kriegman**
+is a PhD student at the University of Vermont.
+(Edit: Sam is now a Postdoctoral Fellow at Harvard University and Tufts University.)  
 His research focuses on the AI-driven automated design of robots and biological machines.
 This involves the 
 dynamical simulation of soft body systems,
@@ -31,4 +33,6 @@ and has co-authored numerous peer-reviewed [publications](https://scholar.google
 
 <img src="https://cdorgs.github.io/img/TheDreamTeam.jpg">
 From left to right: Josh Bongard, Michael Levin, Douglas Blackiston, Sam Kriegman.
+<br>
+At Tufts, Feb 2020.
 
