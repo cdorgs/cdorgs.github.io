@@ -4,8 +4,7 @@
 
 **Sam Kriegman**
 is a PhD student at the University of Vermont.
-(Edit: Sam is now a Postdoctoral Fellow at Harvard University and Tufts University.)  
-His research focuses on the AI-driven automated design of robots and biological machines.
+(Edit: Sam is now a Postdoctoral Fellow at Harvard University and Tufts University.) His research focuses on the AI-driven automated design of robots and biological machines.
 This involves the 
 dynamical simulation of soft body systems,
 simulation-to-reality transfer of physical artifacts,
