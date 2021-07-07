@@ -4,15 +4,12 @@
 
 **Sam Kriegman**
 was a PhD student at the University of Vermont when this work was originally reported in Jan 2020.
-Sam is now a Postdoctoral Fellow at Harvard University. 
-His research focuses on the AI-driven automated design of robots and biological machines.
-This involves the 
-dynamical simulation of soft body systems,
-simulation-to-reality transfer of physical artifacts,
-and designing the form of functional systems that have limited neural control or none at all.
+Sam is now a Postdoctoral Fellow at Harvard University.
+His research explores evolutionary robotics: the automatic creation of novel, functional, embodied machines.
+These machines can in some cases perform useful work, or they may be used as scientific tools to understand evolution, development and adaptive behavior in living systems.
 Sam co-organizes the [Virtual Creatures Competition](https://virtualcreatures.github.io/),
-co-manages the open-source soft robot kit [voxcraft](https://voxcraft.github.io/),
-and has co-authored numerous peer-reviewed [publications](https://scholar.google.com/citations?user=DCIwaLwAAAAJ).
+co-developed the open-source soft robot kit [voxcraft](https://voxcraft.github.io/),
+and has co-authored numerous peer-reviewed [publications](https://scholar.google.com/citations?user=DCIwaLwAAAAJ) spanning robotics, artificial intelligence, and synthetic biology.
 <br><br><br>
 
 
