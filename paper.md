@@ -21,6 +21,8 @@ _Proceedings of the National Academy of Sciences (PNAS)_, vol. 117 no. 4, pp. 18
 
 - One of the Project Management Institute's [Top 10 Most Influential BioTech Projects](https://www.pmi.org/most-influential-projects/top-10-by-industry/biotech).
 
+- Outstanding Paper of the Year Award by The International Society for Artificial Life.
+
 
 ### **Bibtex**
 <pre>
