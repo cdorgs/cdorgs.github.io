@@ -5,8 +5,12 @@
 **Sam Kriegman**
 was a PhD student when CDOs were first reported in Jan 2020.
 Sam is currently a Postdoctoral Fellow at Harvard University and Tufts University (joint appointment).
-His research explores evolutionary robotics: the automatic creation of novel autonomous machines.
-These machines can in some cases perform useful work, or they may be used as scientific tools to understand evolution, development, and adaptive behavior in living systems.
+His research draws inspiration from the origin and subsequent evolution of life, 
+and applies the underlying mechanisms of self-organization and natural selection ("survival of the fittest") 
+to the creation of novel autonomous machines: 
+robots, in all manner of shapes and sizes, that act on their own, without remote control.
+These machines can in some cases perform useful work, 
+or they may be used as scientific tools to understand how animals evolve, grow, move, sense, and think. 
 Sam co-organizes the [Virtual Creatures Competition](https://virtualcreatures.github.io/),
 co-developed the open-source soft robot kit [voxcraft](https://voxcraft.github.io/),
 and has co-authored numerous peer-reviewed [publications](https://scholar.google.com/citations?user=DCIwaLwAAAAJ) spanning robotics, artificial intelligence, and synthetic biology.
