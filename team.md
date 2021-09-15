@@ -6,9 +6,8 @@
 was a PhD student when CDOs were first reported in Jan 2020.
 Sam is currently a Postdoctoral Fellow at Harvard Medical School.
 His [research](https://scholar.google.com/citations?user=DCIwaLwAAAAJ) draws inspiration from the origin and subsequent evolution of life, 
-and applies the underlying mechanisms of self-organization and natural selection ("survival of the fittest") 
-to the creation of novel autonomous machines: 
-robots, in all manner of shapes and sizes, that act on their own, without remote control.
+and applies the underlying mechanisms of self-organization and natural selection
+to the creation of novel autonomous machines.
 These machines can in some cases perform useful work, 
 or they may be used as scientific tools to understand how animals evolve, grow, move, sense, and think. 
 <br><br><br>
