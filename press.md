@@ -11,6 +11,8 @@
 Book Review. [What if, Instead of the Internet, We Had Xenobots?](https://www.nytimes.com/2020/04/23/books/review/bubblegum-adam-levin.html)
 <br>
 [[PDF](https://drive.google.com/file/d/1-zfnp2GtiiKgRwUM1JaAnLr-O3TTIZ2v/view)]
+<br>
+In NYT Magazine as: [I, Xenobot](https://drive.google.com/file/d/1TAAti5UEeFyiwd5v2QMBS2A7rIVLp6Nq/view)
 
 Evening Briefing. [Coronavirus, Masks, Bill Withers: Your Friday Evening Briefing](https://www.nytimes.com/2020/04/03/briefing/coronavirus-masks-bill-withers.html)
 <br>
