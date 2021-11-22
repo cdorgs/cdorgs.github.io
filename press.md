@@ -49,6 +49,12 @@ Word of the Week. [Xenobot: how did earth's newest lifeforms get their name?](ht
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/akchZ4eG9z8" frameborder="0" allowfullscreen></iframe>
 
 
+## CBC TV The Nature of Things 
+[The Machine That Feels](https://www.cbc.ca/natureofthings/episodes/the-machine-that-feels)
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/6Dmv9ZLiwg4" frameborder="0" allowfullscreen></iframe>
+
+
 ## The Economist
 
 [A research team builds robots from living cells](https://www.economist.com/science-and-technology/2020/01/16/a-research-team-builds-robots-from-living-cells)
