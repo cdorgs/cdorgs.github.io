@@ -3,9 +3,9 @@
 [<img src="/img/sam.jpg" width="25%">](https://skriegman.github.io)<br>
 
 **Sam Kriegman**
+is a PhD student at the University of Vermont.
 <!-- was a PhD student when CDOs were first reported in Jan 2020.
 Sam is currently a Postdoctoral Fellow at Tufts University and Harvard University. -->
-is a PhD student at the University of Vermont.
 His [research](https://scholar.google.com/citations?user=DCIwaLwAAAAJ) draws inspiration from the origin and subsequent evolution of life, 
 and applies the underlying mechanisms of self-organization and natural selection
 to the creation of novel autonomous machines.
@@ -45,4 +45,3 @@ Sept 2021. Photographer: M. Scott Brauer.
 
 
 Note: The biographies on this page were composed Jan 2020. 
-Sam updated his bio in July 2021.
