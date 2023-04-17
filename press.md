@@ -14,6 +14,10 @@ Book Review. [What if, Instead of the Internet, We Had Xenobots?](https://www.ny
 <br>
 In NYT Magazine as: [I, Xenobot](https://drive.google.com/file/d/1TAAti5UEeFyiwd5v2QMBS2A7rIVLp6Nq/view)
 
+Mentioned in: [Can Intelligence Be Separated From the Body?](https://www.nytimes.com/2023/04/11/science/artificial-intelligence-body-robots.html)
+<br>
+[[PDF](https://drive.google.com/file/d/1TOx89rFA_ouWBffwrAq8I29EEhRNKm0m/view)]
+
 Evening Briefing. [Coronavirus, Masks, Bill Withers: Your Friday Evening Briefing](https://www.nytimes.com/2020/04/03/briefing/coronavirus-masks-bill-withers.html)
 <br>
 [[PDF](https://drive.google.com/file/d/1kBFlHX4KFcfzy98UaDM6_OVuRG8eSq4u/view)]
