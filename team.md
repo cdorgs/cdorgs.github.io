@@ -4,8 +4,6 @@
 
 **Sam Kriegman**
 is a PhD student at the University of Vermont.
-<!-- was a PhD student when CDOs were first reported in Jan 2020.
-Sam is currently a Postdoctoral Fellow at Tufts University and Harvard University. -->
 His [research](https://scholar.google.com/citations?user=DCIwaLwAAAAJ) draws inspiration from the origin and subsequent evolution of life, 
 and applies the underlying mechanisms of self-organization and natural selection
 to the creation of novel autonomous machines.
@@ -16,7 +14,9 @@ or they may be used as scientific tools to understand how animals evolve, grow, 
 
 <img src="/img/doug.jpg" width="25%">
 
-**Douglas Blackiston** is a Research Scientist in the Allen Discovery Center at Tufts University where his research program has the overarching goal of understanding brain-body plasticity --- the response of cell populations in vivo to alterations in patterning, local environment, and signaling from neighboring tissues.  His work encompasses many diverse questions and models, from the ability of memory to survive metamorphosis in moths and butterflies, to the capacity of transplanted eyes to restore vision in blind vertebrates.
+**Douglas Blackiston** 
+is a Principal Scientist in the Allen Discovery Center at Tufts University and Visiting Scholar in the Wyss Institute at Harvard University.
+His research program has the overarching goal of understanding brain-body plasticity --- the response of cell populations in vivo to alterations in patterning, local environment, and signaling from neighboring tissues.  His work encompasses many diverse questions and models, from the ability of memory to survive metamorphosis in moths and butterflies, to the capacity of transplanted eyes to restore vision in blind vertebrates.
 <br><br><br>
 
 <img src="/img/mike.jpg" width="40%">
