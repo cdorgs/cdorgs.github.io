@@ -21,7 +21,7 @@ His research program has the overarching goal of understanding brain-body plasti
 
 <img src="/img/mike.jpg" width="40%">
 
-**Michael Levin** is the Vannevar Bush Professor of Biology at Tufts University, and the director of the [Allen Discovery Center at Tufts](https://allencenter.tufts.edu/). His work uses developmental biophysics, cognitive science, and computational modeling approaches to understand tissue plasticity, especially focused on bioelectrical information processing in non-neural cell networks. Working at the intersection of regenerative biology and basal cognition, his group seeks to develop new applications in birth defects, regeneration, cancer, and synthetic morphology by learning how cell collectives make morphological decisions and cracking that code to motivate them toward desired anatomical outcomes.
+**Michael Levin** is the Vannevar Bush Professor of Biology at Tufts University, and the director of the [Allen Discovery Center at Tufts](https://allencenter.tufts.edu/). His work uses developmental biophysics, cognitive science, and computational modeling approaches to understand tissue plasticity, especially focused on bioelectrical information processing in non-neural cell networks. Working at the intersection of regenerative biology and basal cognition, his group seeks to develop new applications in birth defects, regeneration, cancer, and synthetic morphology by learning how cell collectives make morphological decisions and cracking that code to motivate them toward desired anatomical outcomes. Photographer: M. Scott Brauer (copyright; all rights reserved).
 <br><br><br>
 
 <img src="/img/josh.jpg" width="25%">
